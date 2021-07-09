@@ -54,3 +54,20 @@ C. Setup SSL
 https://www.namecheap.com/support/knowledgebase/article.aspx/9704/14/generating-a-csr-on-nodejs/  
 https://www.namecheap.com/support/knowledgebase/article.aspx/9705/33/installing-an-ssl-certificate-on-nodejs/  
 https://stackoverflow.com/questions/31156884/how-to-use-https-on-node-js-using-express-socket-io/31165649#31165649  
+
+# TODO
+
+- tweet out tiktok videos
+
+- only show content if title contains ABC or doesnt contain XYZ   
+--- add two database fields, whitelist and blacklist, filter by those words
+
+- remove youtube streams and youtube videos if video is no longer available or private   
+--- how to automate deleting of tweet?
+
+- add Odysee (LBRY) platform
+
+- fix youtube premier videos   
+--- create a test channel
+
+- re-architect timers, wait for work to finish before running functions again
