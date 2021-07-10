@@ -1,0 +1,113 @@
+{
+	"hostname": "AAA.com",
+
+	"debug": false,
+	"testData": false,
+
+	"https": {
+		"cert": "./ssl/AAA.crt",
+		"ca": "./ssl/AAA.ca-bundle",
+		"key": "./ssl/AAA.key"
+	},
+
+	"mongodb": {
+		"connectionString": "mongodb+srv://AAA:BBB@cluster0.ajcse.mongodb.net/CCC?retryWrites=true&w=majority"
+	},
+
+	"youtube": {
+		"enabled": false,
+		"enabledVideo": false,
+		"key": "AAA",
+		"videoDaysAgo": 3,
+		"videoLimit": 20,
+		"offlineLimit": 70
+	},
+
+	"twitch": {
+		"enabled": false,
+		"clientId": "AAA",
+		"clientSecret": "BBB"
+	},
+
+	"dlive": {
+		"enabled": false,
+		"key": "AAA"
+	},
+
+	"theta": {
+		"enabled": false
+	},
+
+	"trovo": {
+		"enabled": false
+	},
+
+	"schedule": {
+		"enabled": false,
+		"hoursAhead": 36
+	},
+
+	"rss": {
+		"enabled": false,
+		"daysAgo": 6,
+		"limit": 10
+	},
+
+	"tiktok": {
+		"enabled": false,
+		"daysAgo": 3,
+		"limit": 20
+	},
+
+	"tikapi": {
+		"enabled": false,
+		"key": "AAA"
+	},
+
+	"timers": {
+		"list": 1,
+		"youtube": 4,
+		"twitch": 4,
+		"dlive": 3,
+		"theta": 4,
+		"trovo": 5,
+		"youtubeVideo": 30,
+		"youtubeVideoList": 3,
+		"schedule": 3,
+		"rss": 30,
+		"rssList": 3,
+		"tiktok": 360,
+		"tiktokList": 5,
+		"price": 1
+	},
+
+	"twitter": {
+		"enabled": false,
+		"username": "AAA",
+		"buffer": 2,
+		"apiKey": "AAA",
+		"apiSecret": "BBB",
+		"accessToken": "CCC",
+		"accessTokenSecret": "DDD"
+	},
+
+	"twitterReddit": {
+		"enabled": false,
+		"username": "AAA",
+		"apiKey": "BBB",
+		"apiSecret": "CCC",
+		"accessToken": "DDD",
+		"accessTokenSecret": "EEE"
+	},
+
+	"telegram": {
+		"enabled": false,
+		"token": "AAA",
+		"channel": "BBB"
+	},
+
+	"price": {
+		"enabled": false,
+		"nomicsKey": "AAA"
+	}
+}

@@ -1,0 +1,153 @@
+.streamIcon img {
+    background-color: #393939;
+}
+
+body {
+    background-color: #292929;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    font-family: "Times New Roman", serif;
+    color: white;
+}
+
+#onlineList {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.section-title {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#showMore button, #showLess button, #contact button {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #463d3d;
+    color: #fffcfc;
+    padding: 10px 75px 10px 75px;
+    cursor: pointer;
+    outline: inherit;
+    transition: opacity 150ms;
+    margin: 6px;
+}
+
+#showMore button {
+    margin: 12px 0px 12px 0px;
+}
+
+#showMore button:hover, #showLess button:hover {
+    opacity: 0.7;
+}
+
+#onlineListSection, #offlineListSection {
+    text-align: center;
+}
+
+#offlineList {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 0;
+    max-height: 467px;
+    overflow: hidden;
+}
+
+#offlineListSection.offlineListVisible #offlineList {
+    max-height: 100%;
+}
+
+#offlineListSection.offlineListVisible #showMore {
+    display:none;
+}
+
+#offlineListSection:not(.offlineListVisible) #showLess {
+    display:none;
+}
+
+
+#footer {
+    font-size: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 5px 5px;
+    background-color: #1b1b1b;
+    font-family: "Times New Roman", serif;
+}
+
+#infoSection > a, #toolSection > a, #securitySection > a, #donateSection > a, #chatSection > a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#chatSection .basicRow {
+    border-right-color: pink;
+}
+
+#nomicsSection {
+    margin-bottom: 10px;
+}
+
+#toolSection .basicRow {
+    border-right-color: green;
+}
+
+.basicRow {
+    display: flex;
+    margin: 7px 0 7px;
+    border-width: 1px 5px 1px 1px;
+    border-style: solid;
+    border-image: initial;
+    max-height: 70px;
+    border-radius: 24px;
+    background-color: rgb(27, 27, 27);
+    transition: opacity 150ms;
+    border-top-color: black;
+    border-left-color: black;
+    border-bottom-color: black;
+    font-family: "Times New Roman", serif;
+}
+
+.basicRow:hover {
+    opacity: 0.7;
+}
+
+.basicInfo {
+    padding-left: 10px;
+    padding-top: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.basicName {
+    height: 100%;
+    font-size: 160%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.basicIcon img {
+    border: 1px solid #000;
+    border-radius: 15px;
+}
+
+.basicIcon {
+    min-width: 70px;
+}
+
+.list {
+    margin-top: 10px;
+}
+
+.n-underline-purple {
+    border-bottom: 1px solid #a0f;
+    text-decoration: none;
+}
+
+.n-white {
+    color: white;
+    font-size: 10px;
+}
