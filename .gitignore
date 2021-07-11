@@ -107,3 +107,4 @@ dist
 .idea/modules.xml
 .idea/vcs.xml
 screenshots/
+config.json
