@@ -139,15 +139,15 @@ const youtubeKey = CONFIG.youtube.key;
 
 ///////////// DLIVE SETUP
 
-const dlive = require('dlivetv-api');
-const dliveKey = CONFIG.dlive.key;
-var dliveAPI = undefined;
-if (CONFIG.dlive.enabled) {
-	dliveAPI = new dlive(dliveKey); }
-
-async function updateDliveAPI() {
-	dliveAPI = new dlive(dliveKey);
-}
+//const dlive = require('dlivetv-api');
+//const dliveKey = CONFIG.dlive.key;
+//var dliveAPI = undefined;
+//if (CONFIG.dlive.enabled) {
+//	dliveAPI = new dlive(dliveKey); }
+//
+//async function updateDliveAPI() {
+//	dliveAPI = new dlive(dliveKey);
+//}
 
 //////////////////////
 // TIMERS
@@ -166,18 +166,18 @@ setInterval(function() {
 	updateYoutube();
 }, youtubeTimer); }
 
-if (CONFIG.dlive.enabled) {
-var dliveTimer = CONFIG.timers.dlive * 60 * 1000;
-var dliveTimerCount = 0;
-setInterval(async function() {
-  log("DLIVE --- ****TIMER: " + (dliveTimer / 1000) + ' seconds');
-	//await updateDlive();
-	dliveTimerCount += 1;
-	if (dliveTimerCount > 60){
-		//updateDliveAPI();
-		dliveTimerCount = 0;
-	}
-}, dliveTimer); }
+//if (CONFIG.dlive.enabled) {
+//var dliveTimer = CONFIG.timers.dlive * 60 * 1000;
+//var dliveTimerCount = 0;
+//setInterval(async function() {
+//  log("DLIVE --- ****TIMER: " + (dliveTimer / 1000) + ' seconds');
+//	//await updateDlive();
+//	dliveTimerCount += 1;
+//	if (dliveTimerCount > 60){
+//		//updateDliveAPI();
+//		dliveTimerCount = 0;
+//	}
+//}, dliveTimer); }
 
 var listTimer = CONFIG.timers.list * 60 * 1000;
 setInterval(function() {
@@ -483,7 +483,7 @@ mongoose.connect(mongoDB, {useNewUrlParser: true, useUnifiedTopology: true}).the
 
 		if (CONFIG.youtube.enabled){updateYoutube();}
 		if (CONFIG.twitch.enabled){updateTwitch();}
-		if (CONFIG.dlive.enabled){updateDlive();}
+		//if (CONFIG.dlive.enabled){updateDlive();}
 		if (CONFIG.theta.enabled){updateTheta();}
 		if (CONFIG.trovo.enabled){updateTrovo();}
 		if (CONFIG.youtube.enabledVideo) {updateYoutubeVideoList();}
@@ -878,6 +878,7 @@ async function updateYoutube(){
 //////////////////////
 // DLIVE
 
+/*
 async function updateDliveStream(stream){
 	try {
 		var result = await dliveAPI.getLivestreamPage(stream.searchKey);
@@ -930,6 +931,7 @@ async function updateDlive(){
 	}
 
 }
+*/
 
 //////////////////////
 // ONLINE & OFFLINE LISTS
