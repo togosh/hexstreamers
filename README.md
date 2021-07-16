@@ -29,7 +29,7 @@ SSH - Putty - https://www.putty.org/
 `npm install firefox`
 
 3. Download Code  
-`git clone https://github.com/togoshige/hexstreamers.git`
+`git clone https://github.com/togosh/hexstreamers.git`
 
 4. Copy config-default.json to config.json and set the values  
 `cp config-default.json config.json`  
@@ -37,10 +37,15 @@ SSH - Putty - https://www.putty.org/
 (Or download it, make the changes it and then upload it - Filezilla: https://filezilla-project.org/)
 
 5. Create MongoDB Atlas Database  
-https://www.mongodb.com/cloud/atlas
+https://www.mongodb.com/cloud/atlas   
+https://www.mongodb.com/products/compass   
 
 6. Run Start/Update script  
 `./update.sh`  
+
+7. Setup Reboot   
+`sudo crontab -e`   
+`@reboot /home/hexstreamers/start.sh`  
 
 # More Setup
 
