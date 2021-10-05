@@ -5,23 +5,24 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
-    "geckodriver": "^2.0.4",
+    "geckodriver": "^1.22.1",
     "image-size": "^0.9.3",
     "image-to-base64": "^2.1.1",
     "jquery": "^3.5.1",
-    "mongoose": "^6.0.9",
+    "mongoose": "^5.11.10",
     "openssl": "^1.1.0",
     "random-useragent": "^0.5.0",
     "request-image-size": "^2.2.0",
     "rss-parser": "^3.12.0",
     "scrape-youtube": "^2.0.7",
-    "selenium-webdriver": "^4.0.0-rc-2",
+    "selenium-webdriver": "^4.0.0-alpha.8",
     "sharp": "^0.27.1",
     "socket.io": "^3.0.4",
     "twitch": "^4.3.8",
     "twitter-api-client": "^1.2.8",
     "urlencode": "^1.1.0"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
