@@ -1,0 +1,1718 @@
+[{
+  "_id": {
+    "$oid": "6042010c12069b3e200ab3bd"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/03/04/the-hex-show",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/03/04/the-hex-show",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show!",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-04T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201fdce87dd4018038fd5"
+  },
+  "hide": false,
+  "guid": "c1601ede-a522-4895-bf28-8c64cfa34a9d",
+  "link": "https://anchor.fm/litecoin-moses/episodes/Drunken-stupor-er6b83",
+  "parentLink": "https://anchor.fm/s/37cfb84/podcast/rss",
+  "name": "Dollar Cost Crypto",
+  "title": "Drunken stupor",
+  "profileURL": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/485225/485225-1545248462240-94f1f1ec7abf9.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-27T20:41:06Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038eaa"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/02/26/dr-martha-koo-neuro-wellness-spa",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/02/26/dr-martha-koo-neuro-wellness-spa",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "Dr. Martha Koo, Neuro Wellness Spa",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-26T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038eab"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/02/25/the-hex-show",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/02/25/the-hex-show",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show!",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-25T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038eac"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/02/19/nick-arquette-and-kaylee-hage-walk-with-sally",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/02/19/nick-arquette-and-kaylee-hage-walk-with-sally",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "Nick Arquette and Kaylee Hage, Walk with Sally",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-19T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038ead"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/02/18/the-hex-show",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/02/18/the-hex-show",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show!",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-18T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038eae"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/02/12/peter-kim-sloopys-cafe-in-north-manhattan",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/02/12/peter-kim-sloopys-cafe-in-north-manhattan",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "Peter Kim, Sloopy's Cafe in North Manhattan",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-12T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038eaf"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/02/11/the-hex-show",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/02/11/the-hex-show",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show!",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-11T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038eb0"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/02/05/commercial-real-estate-update-with-mana-bolourchi-encore",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/02/05/commercial-real-estate-update-with-mana-bolourchi-encore",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "Commercial Real Estate Update with Mana Bolourchi (encore)",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-05T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038eb1"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/02/04/the-hex-show",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/02/04/the-hex-show",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show!",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-04T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038eb2"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/01/29/tamala-lewis-aegs-dignity-health-sports-park",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/01/29/tamala-lewis-aegs-dignity-health-sports-park",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "Tamala Lewis, AEG’s Dignity Health Sports Park",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-01-29T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604201f7ce87dd4018038eb3"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/01/28/hex--a-better-bitcoin-for-truck-drivers-with-dartanyan-eight-ecore",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/01/28/hex--a-better-bitcoin-for-truck-drivers-with-dartanyan-eight-ecore",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "HEX - A Better Bitcoin for Truck Drivers with Dartanyan Eight (ecore)",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-01-28T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421a8bbbcf194b2c4c1634"
+  },
+  "hide": false,
+  "guid": "spotify:episode:4PPB9MM8CIFPJd06FcCgyz",
+  "link": "https://open.spotify.com/episode/4PPB9MM8CIFPJd06FcCgyz",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Bitcoin, Ethereum & HEX Skyrocketing! With Adam Stokes",
+  "profileURL": "https://i.scdn.co/image/6f1b6fa280ac110ee73755a8becda648af66f981",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-03T00:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421aa0bbcf194b2c4c167a"
+  },
+  "hide": false,
+  "guid": "https://bitcoindoctor.substack.com/p/non-fungible-tokens-nft-the-secret",
+  "link": "https://bitcoindoctor.substack.com/p/non-fungible-tokens-nft-the-secret",
+  "parentLink": "https://bitcoindoctor.substack.com/feed",
+  "name": "The Bitcoin Doctor",
+  "title": "Non-Fungible Tokens (NFT), the Secret Twin of Cryptocurrencies.",
+  "profileURL": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a168dbd-35a7-4113-a5b5-57a328f83b55_1280x1280.png",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-02T04:04:35Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421a8bbbcf194b2c4c1637"
+  },
+  "hide": true,
+  "guid": "spotify:episode:2sFWjBBMvHV2N5jqop6gIM",
+  "link": "https://open.spotify.com/episode/2sFWjBBMvHV2N5jqop6gIM",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "HEX - A Short Introduction",
+  "profileURL": "https://i.scdn.co/image/6f1b6fa280ac110ee73755a8becda648af66f981",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421a8bbbcf194b2c4c1636"
+  },
+  "hide": false,
+  "guid": "spotify:episode:1N8JBofTv8ushESIzPokb3",
+  "link": "https://open.spotify.com/episode/1N8JBofTv8ushESIzPokb3",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Bitcoin, Ethereum, And Hex Live With Paul Democritou & Richard Heart",
+  "profileURL": "https://i.scdn.co/image/6f1b6fa280ac110ee73755a8becda648af66f981",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421a8bbbcf194b2c4c1635"
+  },
+  "hide": false,
+  "guid": "spotify:episode:4pKo4b9YRBV1W4VJcM0kHq",
+  "link": "https://open.spotify.com/episode/4pKo4b9YRBV1W4VJcM0kHq",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Stocks Crashing 90%, Bitcoin & Cryptocurrency Too! Says Harry Dent. I Think Not, For Money Printing.",
+  "profileURL": "https://i.scdn.co/image/6f1b6fa280ac110ee73755a8becda648af66f981",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421aa0bbcf194b2c4c167b"
+  },
+  "hide": false,
+  "guid": "https://bitcoindoctor.substack.com/p/dont-be-scared-its-only-crypto-farming",
+  "link": "https://bitcoindoctor.substack.com/p/dont-be-scared-its-only-crypto-farming",
+  "parentLink": "https://bitcoindoctor.substack.com/feed",
+  "name": "The Bitcoin Doctor",
+  "title": "Don't Be Scared, It's only Crypto Farming...",
+  "profileURL": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a168dbd-35a7-4113-a5b5-57a328f83b55_1280x1280.png",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-26T19:52:05Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421a86bbcf194b2c4c162d"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/a01424e511e4",
+  "link": "https://medium.datadriveninvestor.com/a-surprising-risk-for-crypto-investors-right-now-louis-thomas-explains-a01424e511e4?source=rss-92fadab0aab8------2",
+  "parentLink": "https://medium.com/feed/@tldrtaylor",
+  "name": "Stories by Taylor Kennedy on Medium",
+  "title": "‘A Surprising Risk for Crypto Investors Right Now’ — Louis Thomas Explains",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*eZZxR4-DelqhAITqf6TIqA.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-18T15:12:02Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421aa5bbcf194b2c4c1686"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/ce2b6409122e",
+  "link": "https://medium.com/@cryptovince/interview-with-a-hex-dev-part-2-the-engineering-behind-hex-shares-staking-ce2b6409122e?source=rss-c095936ca519------2",
+  "parentLink": "https://medium.com/feed/@cryptovince",
+  "name": "Stories by Vince C. on Medium",
+  "title": "Interview With A Hex Dev: Part 2— The Engineering Behind Hex Shares & Staking",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/2*1m8mVJ2CMwk3Uy8-Pyyx9w.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-16T11:11:25Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421aa0bbcf194b2c4c167c"
+  },
+  "hide": false,
+  "guid": "https://bitcoindoctor.substack.com/p/this-one-is-special-think-like-elon",
+  "link": "https://bitcoindoctor.substack.com/p/this-one-is-special-think-like-elon",
+  "parentLink": "https://bitcoindoctor.substack.com/feed",
+  "name": "The Bitcoin Doctor",
+  "title": "This one is special. Think like Elon Musk.",
+  "profileURL": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a168dbd-35a7-4113-a5b5-57a328f83b55_1280x1280.png",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-13T00:51:48Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421aa5bbcf194b2c4c1687"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/4babd6b83003",
+  "link": "https://medium.com/@cryptovince/interview-with-a-hex-dev-part-1-operational-security-4babd6b83003?source=rss-c095936ca519------2",
+  "parentLink": "https://medium.com/feed/@cryptovince",
+  "name": "Stories by Vince C. on Medium",
+  "title": "Interview With A Hex Dev: Part 1 — Operational Security",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/2*1m8mVJ2CMwk3Uy8-Pyyx9w.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-10T23:46:53Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421aa0bbcf194b2c4c167d"
+  },
+  "hide": false,
+  "guid": "https://bitcoindoctor.substack.com/p/tosdis",
+  "link": "https://bitcoindoctor.substack.com/p/tosdis",
+  "parentLink": "https://bitcoindoctor.substack.com/feed",
+  "name": "The Bitcoin Doctor",
+  "title": "TosDis",
+  "profileURL": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a168dbd-35a7-4113-a5b5-57a328f83b55_1280x1280.png",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-05T21:38:41Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60421aadbbcf194b2c4c1689"
+  },
+  "hide": false,
+  "guid": "https://hexicans.info/?p=428",
+  "link": "https://hexicans.info/revolution/?utm_source=rss&utm_medium=rss&utm_campaign=revolution",
+  "parentLink": "https://hexicans.info/feed/",
+  "name": "Hexican blogs",
+  "title": "The revolution in finance you probably missed: HEX!",
+  "profileURL": "https://hexicans.info/wp-content/uploads/2020/06/cropped-ourhexicon-32x32.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-02-05T08:59:50Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60426676d6ba3947e6fde906"
+  },
+  "hide": true,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/03/05/sylvia-gayed-manhattan-tax-and-accounting-2021-tax-season-update",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/03/05/sylvia-gayed-manhattan-tax-and-accounting-2021-tax-season-update",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "Sylvia Gayed, Manhattan Tax and Accounting, 2021 Tax Season Update",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-05T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604700569c7ade0e4666403a"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/d1afa158b992",
+  "link": "https://medium.com/@cryptovince/introduction-to-hexbay-kryptosparbuch-interview-featuring-fabian-d1afa158b992?source=rss-c095936ca519------2",
+  "parentLink": "https://medium.com/feed/@cryptovince",
+  "name": "Crypto Vince",
+  "title": "Introduction To HexBay — Kryptosparbuch Interview Featuring Fabian",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/2*1m8mVJ2CMwk3Uy8-Pyyx9w.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-09T04:31:04Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604a52fb9c7ade0e466722ed"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/03/11/the-hex-show",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/03/11/the-hex-show",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show!",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-11T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604b502a9c7ade0e4667688c"
+  },
+  "hide": false,
+  "guid": "spotify:episode:7GVey5NZ9BINDhzsiomAfv",
+  "link": "https://open.spotify.com/episode/7GVey5NZ9BINDhzsiomAfv",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart & Jane King - The Effect of Inflation on Crypto",
+  "profileURL": "https://i.scdn.co/image/6f1b6fa280ac110ee73755a8becda648af66f981",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-12T00:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604ba47a9c7ade0e46677dd9"
+  },
+  "hide": true,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/03/12/nancy-miller-jimmy-miller-memorial-foundation",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/03/12/nancy-miller-jimmy-miller-memorial-foundation",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "Nancy Miller, Jimmy Miller Memorial Foundation",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-12T16:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6050eec5a25aeadfe5aa4b57"
+  },
+  "hide": false,
+  "guid": "spotify:episode:44w2qQPphRPPJ7x78yeFeQ",
+  "link": "https://open.spotify.com/episode/44w2qQPphRPPJ7x78yeFeQ",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Bitcoin going to $0?!? Ethereum too? Hex goes to the moon? BTC price & more with Richard Heart",
+  "profileURL": "https://i.scdn.co/image/6f1b6fa280ac110ee73755a8becda648af66f981",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-16T00:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60537b18c1c6ee33ee078125"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/03/18/the-hex-show-scammers-steal-3-million-hex-and-still-come-back-for-more",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/03/18/the-hex-show-scammers-steal-3-million-hex-and-still-come-back-for-more",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show! : Scammers steal 3 Million HEX and still come back for more.",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-18T15:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60547140c1c6ee33ee07c530"
+  },
+  "hide": false,
+  "guid": "spotify:episode:1f5CDhU1FTs57H3SVrW5yk",
+  "link": "https://open.spotify.com/episode/1f5CDhU1FTs57H3SVrW5yk",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "$300,000 Bitcoin, $6,000 Ethereum, NFT& DeFi Madness w/ Chris Blec, Patek Philippe, Rolex!",
+  "profileURL": "https://i.scdn.co/image/6f1b6fa280ac110ee73755a8becda648af66f981",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-19T00:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6054cc98c1c6ee33ee07dc82"
+  },
+  "hide": true,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/03/19/dr-mungcal-manhattan-beach-dental-solutions",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/03/19/dr-mungcal-manhattan-beach-dental-solutions",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "Dr. Mungcal, Manhattan Beach Dental Solutions",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-19T15:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6057732089b277ce62fba300"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/c7fc797381b2",
+  "link": "https://matiallin.medium.com/2nd-annual-hex-conference-2022-hexchange-live-c7fc797381b2?source=rss-4dbfe20fe159------2",
+  "parentLink": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "title": "2nd Annual HEX Conference 2022 hExchange.live",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*nmwGM-Z7Crfz16kMrPG8bQ.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-21T16:17:16Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60594c245d298e2fdf9df87d"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/57dfe2ed70ed",
+  "link": "https://matiallin.medium.com/hexican-vegas-all-in-meetup-2021-57dfe2ed70ed?source=rss-4dbfe20fe159------2",
+  "parentLink": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "title": "Hexican.vegas All-In Meetup 2021",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*nmwGM-Z7Crfz16kMrPG8bQ.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-23T01:37:38Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605ca75cb38af5451531a0c3"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/03/25/the-hex-show-scammers-steal-3-million-hex-and-come-back-for-more-encore",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/03/25/the-hex-show-scammers-steal-3-million-hex-and-come-back-for-more-encore",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show! : Scammers steal 3 Million HEX and come back for more. (encore)",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-25T15:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605cbc7eb38af5451531a807"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/97bc99cb09e3",
+  "link": "https://medium.datadriveninvestor.com/grayscale-the-first-blockchain-certificate-of-deposit-a-perfect-match-97bc99cb09e3?source=rss-92fadab0aab8------2",
+  "parentLink": "https://medium.com/feed/@tldrtaylor",
+  "name": "Taylor Kennedy",
+  "title": "Grayscale + The First Blockchain Certificate of Deposit: A Perfect Match",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*eZZxR4-DelqhAITqf6TIqA.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-03-25T16:31:32Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6065f73eaf79d291c04668e7"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/04/01/the-hex-show-bitcoin-hex-and-all-things-crypto",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/04/01/the-hex-show-bitcoin-hex-and-all-things-crypto",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show! Bitcoin, HEX and all things Crypto!",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-04-01T15:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c72c9af79d291c0483937"
+  },
+  "hide": false,
+  "guid": "https://hexicans.info/?p=475",
+  "link": "https://hexicans.info/why-hate/?utm_source=rss&utm_medium=rss&utm_campaign=why-hate",
+  "parentLink": "https://hexicans.info/feed/",
+  "name": "Hexican Blogs",
+  "title": "Why Does Hex Receive So Much Hate?",
+  "profileURL": "https://hexicans.info/wp-content/uploads/2020/06/cropped-ourhexicon-32x32.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-04-06T14:34:35Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076e19c9b23c28a4939bc62"
+  },
+  "hide": false,
+  "guid": "spotify:episode:6BisFkxk3KJxc0x4GctQqs",
+  "link": "https://open.spotify.com/episode/6BisFkxk3KJxc0x4GctQqs",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "8 hour Q&A | Bitcoin | Ethereum | Coinbase | HEX | PulseChain",
+  "profileURL": "https://i.scdn.co/image/6f1b6fa280ac110ee73755a8becda648af66f981",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60785d3c9b23c28a493a2525"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/04/15/the-hex-show-bitcoin-hex-and-all-things-crypto",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/04/15/the-hex-show-bitcoin-hex-and-all-things-crypto",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show! Bitcoin, HEX, and all things Crypto!",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-04-15T15:00:00Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6078dbe69b23c28a493a4a31"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/a3f73ddb6ee8",
+  "link": "https://matiallin.medium.com/top-ten-habits-of-the-highly-wealthy-a3f73ddb6ee8?source=rss-4dbfe20fe159------2",
+  "parentLink": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "title": "Top Ten Habits of the Highly Wealthy",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*nmwGM-Z7Crfz16kMrPG8bQ.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-04-16T00:06:54Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607906159b23c28a493a55ef"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/1344007f5427",
+  "link": "https://matiallin.medium.com/draft-pulse-chain-game-theory-1344007f5427?source=rss-4dbfe20fe159------2",
+  "parentLink": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "title": "Draft: Pulse Chain Game Theory",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*nmwGM-Z7Crfz16kMrPG8bQ.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-04-16T03:07:42Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6081a0d69a396f52125fdef0"
+  },
+  "hide": false,
+  "guid": "http://www.blogtalkradio.com/thesouthbayshow/2021/04/22/the-hex-show-bitcoin-hex-and-all-things-crypto",
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/2021/04/22/the-hex-show-bitcoin-hex-and-all-things-crypto",
+  "parentLink": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "title": "The HEX Show! Bitcoin, HEX, and all things Crypto!",
+  "profileURL": "https://dasg7xwmldix6.cloudfront.net/hostpics/82a3dbb4-3fac-4955-b1d4-08c18747d714_the-south-bay-show-logo.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-04-22T15:00:00Z"
+  },
+  "twitter": "masternodecnslt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608d438ded7df06bf6baf4af"
+  },
+  "hide": false,
+  "guid": "spotify:episode:5zAblESwyXaMaMYhBjXClC",
+  "link": "https://open.spotify.com/episode/5zAblESwyXaMaMYhBjXClC",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "PulseChain Announcements | HEX Ladies",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8acf43ae2480321bd91b7f1039",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-01T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6093d01c7f759a5aa5c4a609"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/2ceaf0f64b43",
+  "link": "https://medium.datadriveninvestor.com/defi-market-leader-hex-soars-to-new-highs-2ceaf0f64b43?source=rss-92fadab0aab8------2",
+  "parentLink": "https://medium.com/feed/@tldrtaylor",
+  "name": "Taylor Kennedy",
+  "title": "DeFi Market Leader HEX Soars to New Highs",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*eZZxR4-DelqhAITqf6TIqA.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-06T11:11:16Z"
+  },
+  "twitter": "250smurf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60998eec313bfc6c79c8caf0"
+  },
+  "hide": false,
+  "guid": "spotify:episode:0SAWadlexQje8NEfn432CU",
+  "link": "https://open.spotify.com/episode/0SAWadlexQje8NEfn432CU",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "HEX is up 1000x | Free Ethereum Fork | PulseChain",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-10T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6099b220313bfc6c79c8d53b"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/c6f358b8f342",
+  "link": "https://matiallin.medium.com/proposal-of-pulse-game-theories-c6f358b8f342?source=rss-4dbfe20fe159------2",
+  "parentLink": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "title": "Proposal of Pulse Game Theories",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*nmwGM-Z7Crfz16kMrPG8bQ.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-10T22:03:45Z"
+  },
+  "twitter": "matiallin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609be1cf994ef592ff9a4933"
+  },
+  "hide": false,
+  "guid": "spotify:episode:2xpcYYY3SJitiRRzw8joVy",
+  "link": "https://open.spotify.com/episode/2xpcYYY3SJitiRRzw8joVy",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Aubrey De Grey wants to save your life with medicine. Richard Heart & Vitalik Buterin support him",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a18876c09c3d678d547047"
+  },
+  "hide": false,
+  "guid": "spotify:episode:0e3KabwLitEQ1FkT7sPub4",
+  "link": "https://open.spotify.com/episode/0e3KabwLitEQ1FkT7sPub4",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Biggest Airdrop In History | Ethereum Fork",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-16T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a486e3c09c3d678d554ab4"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/2c50381807c4",
+  "link": "https://cryptocoffee369.medium.com/should-you-ditch-ethereum-for-pulsechain-2c50381807c4?source=rss-a77be6386b15------2",
+  "parentLink": "https://medium.com/feed/@cryptocoffee369",
+  "name": "Crypto Coffee",
+  "title": "Should You Ditch Ethereum For PulseChain?",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*I1Z5OP2z8OqdvuxZl9ftcg.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-19T03:15:13Z"
+  },
+  "twitter": "cryptocoffee369",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4cd2ec09c3d678d555e8e"
+  },
+  "hide": false,
+  "guid": "spotify:episode:0l52alOqs1C9aXdR52Su7k",
+  "link": "https://open.spotify.com/episode/0l52alOqs1C9aXdR52Su7k",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - BIGGEST AIRDROP IN HISTORY ETH FORK | ETHEREUM | BITCOIN | DOGECOIN",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a62cbec09c3d678d55c2b9"
+  },
+  "hide": false,
+  "guid": "spotify:episode:4Y1H0AkbIgBwWdmPsrcFCs",
+  "link": "https://open.spotify.com/episode/4Y1H0AkbIgBwWdmPsrcFCs",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - BITCOIN CRASH! ETHEREUM DOGECOIN BNB ETH BTC EVERYTHING DOWN MASSIVE! WHEN BOUNCE?!?",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a69636c09c3d678d55e0b2"
+  },
+  "hide": false,
+  "guid": "spotify:episode:0kgVKjrrG9kwZf2UBUa1iI",
+  "link": "https://open.spotify.com/episode/0kgVKjrrG9kwZf2UBUa1iI",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - BITCOIN BOUNCE! ETHEREUM DOGECOIN BNB ETH BTC EVERYTHING UP MASSIVE! AIRDROP COMING!",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aba3f6c09c3d678d575173"
+  },
+  "hide": false,
+  "guid": "spotify:episode:0gmIhnyQuEBNJJnM8ZFDH0",
+  "link": "https://open.spotify.com/episode/0gmIhnyQuEBNJJnM8ZFDH0",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - Bitcoin Going Back To $55k!? Ethereum Dogecoin BNB ETH BTC Dogecoin Bouncing! Huge Airdrop Coming!",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ac0d6ec09c3d678d576f73"
+  },
+  "hide": false,
+  "guid": "spotify:episode:0fXsEznIINOlLMDRku074U",
+  "link": "https://open.spotify.com/episode/0fXsEznIINOlLMDRku074U",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - BITCOIN GOING to $0!? ETHEREUM DOGECOIN BNB ETH BTC EVERYTHING DYING! WHEN BOUNCE? AIRDROP COMING!",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-24T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ae46f6c09c3d678d58120e"
+  },
+  "hide": false,
+  "guid": "spotify:episode:6aWzdhvOIqkKXGOro6FLoe",
+  "link": "https://open.spotify.com/episode/6aWzdhvOIqkKXGOro6FLoe",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart on Mitch Ray | Bitcoin | PulseChain | HEX",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-26T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aef6b9c09c3d678d58444d"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/4a412b3b7095",
+  "link": "https://medium.datadriveninvestor.com/savers-and-income-investors-see-high-returns-as-bankings-2nd-biggest-product-hits-the-blockchain-4a412b3b7095?source=rss-92fadab0aab8------2",
+  "parentLink": "https://medium.com/feed/@tldrtaylor",
+  "name": "Taylor Kennedy",
+  "title": "Savers And Income Investors See High Returns As Banking’s 2nd Biggest Product Hits The Blockchain",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*eZZxR4-DelqhAITqf6TIqA.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-27T01:18:22Z"
+  },
+  "twitter": "250smurf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b0b8dac09c3d678d58c518"
+  },
+  "hide": false,
+  "guid": "https://hexicans.info/?p=500",
+  "link": "https://hexicans.info/high-returns/?utm_source=rss&utm_medium=rss&utm_campaign=high-returns",
+  "parentLink": "https://hexicans.info/feed/",
+  "name": "Hexican Blogs",
+  "title": "Savers And Income Investors See High Returns As Banking’s 2nd Biggest Product Hits The Blockchain",
+  "profileURL": "https://hexicans.info/wp-content/uploads/2020/06/cropped-ourhexicon-32x32.jpg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-05-28T09:08:11Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ba03fa726dd0b6939ab207"
+  },
+  "hide": false,
+  "guid": "spotify:episode:0UAXEi4Hq8eGGza96yY5n1",
+  "link": "https://open.spotify.com/episode/0UAXEi4Hq8eGGza96yY5n1",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - Bitcoin To $55k!? Ethereum To $3600? Dogecoin BNB ETH BTC Dogecoin Bouncing! Huge Airdrop Coming!",
+  "profileURL": "https://i.scdn.co/image/ab6765630000ba8a25b10f90c6850134216d8757",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-04T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c1c2ca726dd0b6939cea4c"
+  },
+  "hide": false,
+  "guid": "spotify:episode:7H81ueRcHuPfQo9rKGrvdO",
+  "link": "https://open.spotify.com/episode/7H81ueRcHuPfQo9rKGrvdO",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - BITCOIN DOWN 44% ETHEREUM DOWN 42% HEX NEW ALL TIME HIGH! HUGE AIRDROP COMING! ETH DOGECOIN BTC",
+  "profileURL": "hexicanpodcast.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c5c72e3f572b881bf2a290"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/97e13b8f1c0d",
+  "link": "https://medium.datadriveninvestor.com/beating-bears-baffling-bulls-the-best-performing-asset-of-2020-2021-continues-richly-rewarding-97e13b8f1c0d?source=rss-92fadab0aab8------2",
+  "parentLink": "https://medium.com/feed/@tldrtaylor",
+  "name": "Taylor Kennedy",
+  "title": "Beating Bears, Baffling Bulls: The Best Performing Asset of 2020 & 2021 Continues Richly Rewarding…",
+  "profileURL": "https://cdn-images-1.medium.com/fit/c/150/150/1*eZZxR4-DelqhAITqf6TIqA.jpeg",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-13T08:32:52Z"
+  },
+  "twitter": "250smurf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c749eb3f572b881bf3118d"
+  },
+  "hide": false,
+  "guid": "spotify:episode:0rT3Qg6plcLQaHmBtgbMbg",
+  "link": "https://open.spotify.com/episode/0rT3Qg6plcLQaHmBtgbMbg",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - Biggest Airdrop in History! HEX 8.5 Cents New All Time High! Millions Donated to Charity! Bitcoin",
+  "profileURL": "hexicanpodcast.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-14T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc6626fcec42b404e9a524"
+  },
+  "hide": false,
+  "guid": "spotify:episode:4GrdJKFaaptjItYyrw1ZYU",
+  "link": "https://open.spotify.com/episode/4GrdJKFaaptjItYyrw1ZYU",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart with Gentlemen Of Crypto! Ethereum HEX BTC Dogecoin Coinbase BNB Doge Matic",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-18T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2e899fcec42b404eb8507"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/d0eeca852c76",
+  "link": "https://matiallin.medium.com/hexican-us-d0eeca852c76?source=rss-4dbfe20fe159------2",
+  "parentLink": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "title": "HEXICAN.us",
+  "profileURL": "httpsmediumcomfeedmatiallin.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-23T07:44:49Z"
+  },
+  "twitter": "matiallin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d75bd1fcec42b404eccec6"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/14215d2627ac",
+  "link": "https://stakerapp.medium.com/staking-gets-easier-faster-and-cheaper-14215d2627ac?source=rss-26f39ae8048b------2",
+  "parentLink": "https://medium.com/feed/@stakerapp",
+  "name": "Stakerapp",
+  "title": "Staking gets easier, faster, and cheaper!",
+  "profileURL": "httpsmediumcomfeedstakerapp.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-26T14:46:30Z"
+  },
+  "twitter": "StakerApp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8b427fcec42b404ed32d5"
+  },
+  "hide": false,
+  "guid": "spotify:episode:2dLuc7178PoPjXKDDtwuHE",
+  "link": "https://open.spotify.com/episode/2dLuc7178PoPjXKDDtwuHE",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - XRP DEVELOPER",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-27T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d8b427fcec42b404ed32d6"
+  },
+  "hide": false,
+  "guid": "spotify:episode:18WpEC4Z0DDOoTenQspqS8",
+  "link": "https://open.spotify.com/episode/18WpEC4Z0DDOoTenQspqS8",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - HEX VEGAS Surprise Stream",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-27T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d91da9fcec42b404ed520f"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/85449c3e07c5",
+  "link": "https://matiallin.medium.com/pulsehexfest-com-85449c3e07c5?source=rss-4dbfe20fe159------2",
+  "parentLink": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "title": "PulseHexFest.com",
+  "profileURL": "httpsmediumcomfeedmatiallin.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-06-28T00:48:26Z"
+  },
+  "twitter": "matiallin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eea4de3a2fe814070e69e4"
+  },
+  "hide": false,
+  "guid": "spotify:episode:2MeJN1Aynr0ZYzKiH4J191",
+  "link": "https://open.spotify.com/episode/2MeJN1Aynr0ZYzKiH4J191",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - WORLDS LARGEST AIRDROP TOMORROW? | HEX 11¢!",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-14T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f0127f3a2fe814070ed7e9"
+  },
+  "hide": false,
+  "guid": "spotify:episode:44Iz4Pyar2KVJ7oQqc5IgH",
+  "link": "https://open.spotify.com/episode/44Iz4Pyar2KVJ7oQqc5IgH",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - PULSECHAIN SACRIFICE PHASE IS LIVE",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-15T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f2ae763a2fe814070fa05d"
+  },
+  "hide": false,
+  "guid": "spotify:episode:7DwzCqH2g3eDXWPnAdJriX",
+  "link": "https://open.spotify.com/episode/7DwzCqH2g3eDXWPnAdJriX",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - Bitcoin & Ethereum Crash To $0? World's Largest Airdrop. Doge",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-17T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f4858e3a2fe81407102d5d"
+  },
+  "hide": false,
+  "guid": "spotify:episode:5pvuyqm5rJiLfkAnMJLJj0",
+  "link": "https://open.spotify.com/episode/5pvuyqm5rJiLfkAnMJLJj0",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart & Alex Saunders from Nugget's News",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-18T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f56d963a2fe81407107302"
+  },
+  "hide": false,
+  "guid": "spotify:episode:5ReNazgj2Pw8sPfeYs9vP1",
+  "link": "https://open.spotify.com/episode/5ReNazgj2Pw8sPfeYs9vP1",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart with Louis Thomas",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-19T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f67fce3a2fe8140710c61d"
+  },
+  "hide": false,
+  "guid": "spotify:episode:2aQ1xKZLc2mrP7OXthoIlQ",
+  "link": "https://open.spotify.com/episode/2aQ1xKZLc2mrP7OXthoIlQ",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - PulseChain Code Is Out!",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-20T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f93eee3a2fe8140711994d"
+  },
+  "hide": false,
+  "guid": "spotify:episode:2KzWPNCrhp4K9ZC5b4gaLv",
+  "link": "https://open.spotify.com/episode/2KzWPNCrhp4K9ZC5b4gaLv",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart & Martini Guy",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-22T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd2c673a2fe8140712c5f7"
+  },
+  "hide": false,
+  "guid": "spotify:episode:3s7TPTuKetVgQ0jpLnBk5F",
+  "link": "https://open.spotify.com/episode/3s7TPTuKetVgQ0jpLnBk5F",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "BITCOIN & ETHEREUM PRICE UP! HUGE AIRDROP! ANOTHER RATE INCREASE TODAY BY 5%! CRYPTO DYING?!",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-25T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100b77a3a2fe8140713d701"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/81bbe35e7cd7",
+  "link": "https://matiallin.medium.com/pulsehex-com-2022-conference-81bbe35e7cd7?source=rss-4dbfe20fe159------2",
+  "parentLink": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "title": "PulseHex.com 2022 Conference",
+  "profileURL": "httpsmediumcomfeedmatiallin.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-28T01:27:34Z"
+  },
+  "twitter": "matiallin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102e2e73a2fe81407147cce"
+  },
+  "hide": false,
+  "guid": "spotify:episode:7fVxPQTsSbZLSdm771emRD",
+  "link": "https://open.spotify.com/episode/7fVxPQTsSbZLSdm771emRD",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart & Kyle Chasse | 2 BITCOIN & ETHEREUM GOING UP! HUGE AIRDROP! ANOTHER RATE INCREASE TODAY BY 5%! CRYPTO DYING",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-29T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6103fc273a2fe8140714d0a6"
+  },
+  "hide": false,
+  "guid": "spotify:episode:4Pb8oe3THcvisLDYN4bGmZ",
+  "link": "https://open.spotify.com/episode/4Pb8oe3THcvisLDYN4bGmZ",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart & Crypto Face",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-07-30T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610651ce3a2fe814071582ac"
+  },
+  "hide": false,
+  "guid": "spotify:episode:6RUNe04YDVn4sAIS98ZMrX",
+  "link": "https://open.spotify.com/episode/6RUNe04YDVn4sAIS98ZMrX",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart & Crypt0 - It's Going Pretty Good Man",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610666e73a2fe814071588fa"
+  },
+  "hide": false,
+  "guid": "spotify:episode:6OGB9SZ2f19fINz6JcIllk",
+  "link": "https://open.spotify.com/episode/6OGB9SZ2f19fINz6JcIllk",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart on Cabana Crypto - Angry Hedge Fund Manager",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-01T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107aa573a2fe8140715e973"
+  },
+  "hide": false,
+  "guid": "spotify:episode:6FiweBpSuAXtczLJoWGmyp",
+  "link": "https://open.spotify.com/episode/6FiweBpSuAXtczLJoWGmyp",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - Last Day Of PulseChain Sacrifice",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-02T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61093b1f3a2fe81407166189"
+  },
+  "hide": false,
+  "guid": "spotify:episode:592vPSibHTwfcvv0oRJrlH",
+  "link": "https://open.spotify.com/episode/592vPSibHTwfcvv0oRJrlH",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - Last Hour Of PulseChain Sacrifice",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-03T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611372bf3a2fe81407197255"
+  },
+  "hide": false,
+  "guid": "spotify:episode:3pVedNarGpsvpCuYE5kKBl",
+  "link": "https://open.spotify.com/episode/3pVedNarGpsvpCuYE5kKBl",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Biggest Hack In History! $611m Stolen! Boxmining Rekt! I Warned You All! Bitcoin Ethereum Dogecoin",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-11T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611cafc2c3a73609b7e643d7"
+  },
+  "hide": false,
+  "guid": "spotify:episode:7iGuGBg8Bda7MNpWdOVsuz",
+  "link": "https://open.spotify.com/episode/7iGuGBg8Bda7MNpWdOVsuz",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - Talking Watches with Nico Leonard & Bitcoin Ethereum Dogecoin HEX Pulsechain Rolex Patek",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-18T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6121cbc5c3a73609b7e7ceea"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/b577d57d57be",
+  "link": "https://medium.com/@CryptoWorldRev2/the-curious-case-of-richard-heart-and-hex-b577d57d57be?source=rss-19d8c9516fb7------2",
+  "parentLink": "https://medium.com/feed/@CryptoWorldRev2",
+  "name": "CryptoWorldReview",
+  "title": "The Fascinating Case of Richard Heart and HEX",
+  "profileURL": "httpsmediumcomfeedCryptoWorldRev2.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-21T04:13:49Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6121cbc5c3a73609b7e7ceeb"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/b41ceadfcaeb",
+  "link": "https://medium.com/@CryptoWorldRev2/recent-visit-to-mexico-thoughts-at-the-border-wall-b41ceadfcaeb?source=rss-19d8c9516fb7------2",
+  "parentLink": "https://medium.com/feed/@CryptoWorldRev2",
+  "name": "CryptoWorldReview",
+  "title": "Recent Visit To Mexico-Thoughts At The Border Wall",
+  "profileURL": "httpsmediumcomfeedCryptoWorldRev2.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-20T17:11:04Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61221ff2c3a73609b7e7e7ca"
+  },
+  "hide": false,
+  "guid": "spotify:episode:6maDjYPJ4MInoctJcupopE",
+  "link": "https://open.spotify.com/episode/6maDjYPJ4MInoctJcupopE",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - Use This 1 Trick Or Get Hacked And Lose It All. Where Does The Value Come From? Bitcoin Ethereum Hex",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-22T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61222e3bc3a73609b7e7ec6d"
+  },
+  "hide": true,
+  "guid": "spotify:episode:5FKQyLe71BgQ6vmuE6jnH5",
+  "link": "https://open.spotify.com/episode/5FKQyLe71BgQ6vmuE6jnH5",
+  "parentLink": "https://spotifeed.timdorr.com/4BzHdMu7L434D7NZAgGevC",
+  "name": "Wave3TV",
+  "title": "Into BTC vs. ETH! with KingBless!",
+  "profileURL": "httpsspotifeedtimdorrcom4BzHdMu7L434D7NZAgGevC.webp",
+  "isTestData": true,
+  "published": {
+    "$date": "2021-08-22T00:00:00Z"
+  },
+  "twitter": "Wave3TV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61222e3bc3a73609b7e7ec6c"
+  },
+  "hide": false,
+  "guid": "spotify:episode:1YJRenHeLnhpy3PDMKo01v",
+  "link": "https://open.spotify.com/episode/1YJRenHeLnhpy3PDMKo01v",
+  "parentLink": "https://spotifeed.timdorr.com/4BzHdMu7L434D7NZAgGevC",
+  "name": "Wave3TV",
+  "title": "Into Pulse! with Cabana!",
+  "profileURL": "httpsspotifeedtimdorrcom4BzHdMu7L434D7NZAgGevC.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-08-22T00:00:00Z"
+  },
+  "twitter": "Wave3TV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6122dde7c3a73609b7e821eb"
+  },
+  "hide": true,
+  "guid": "https://hexicans.info/?p=533",
+  "link": "https://hexicans.info/giveaway-from-hex/?utm_source=rss&utm_medium=rss&utm_campaign=giveaway-from-hex",
+  "parentLink": "https://hexicans.info/feed/",
+  "name": "Hexican Blogs",
+  "title": "Giveaway from HEX!",
+  "profileURL": "httpshexicansinfofeed.webp",
+  "isTestData": true,
+  "published": {
+    "$date": "2021-08-22T23:20:05Z"
+  },
+  "twitter": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6122e506c3a73609b7e8242b"
+  },
+  "hide": true,
+  "guid": "spotify:episode:1HgKJenQeUp4NxlFkXnnNU",
+  "link": "https://open.spotify.com/episode/1HgKJenQeUp4NxlFkXnnNU",
+  "parentLink": "https://spotifeed.timdorr.com/4BzHdMu7L434D7NZAgGevC",
+  "name": "Wave3TV",
+  "title": "Into Shiden! with Maarten!",
+  "profileURL": "httpsspotifeedtimdorrcom4BzHdMu7L434D7NZAgGevC.webp",
+  "isTestData": true,
+  "published": {
+    "$date": "2021-08-22T00:00:00Z"
+  },
+  "twitter": "Wave3TV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6130b58cc3a73609b7ec41a1"
+  },
+  "hide": false,
+  "guid": "spotify:episode:2sotBljZxcS7dVNeNeZESx",
+  "link": "https://open.spotify.com/episode/2sotBljZxcS7dVNeNeZESx",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - HEX.COM $0.26 ALL TIME HIGH! WORLD'S LARGEST AIRDROP! PULSECHAIN.COM FERRARI AND AP BITCOIN ETHEREUM (128kbit_AAC) - 01 September 2021",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-09-02T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6130e6c4c3a73609b7ec506e"
+  },
+  "hide": false,
+  "guid": "spotify:episode:2ukQ4Nig5ULU3RsVTDff63",
+  "link": "https://open.spotify.com/episode/2ukQ4Nig5ULU3RsVTDff63",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - Hitting New All Time Highs!",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-09-01T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6133ad18c3a73609b7ed261f"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/ff1ee6272ef0",
+  "link": "https://medium.com/@0xstef/you-dont-have-much-time-left-ff1ee6272ef0?source=rss-1a88bd1cfcc7------2",
+  "parentLink": "https://medium.com/feed/@0xstef",
+  "name": "Stef",
+  "title": "You Don’t Have Much Time Left!",
+  "profileURL": "httpsmediumcomfeed0xstef.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-09-04T13:10:58Z"
+  },
+  "twitter": "0xstef",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61358403c3a73609b7edb422"
+  },
+  "hide": false,
+  "guid": "spotify:episode:0TxACB2RjTValyk3YnHQk7",
+  "link": "https://open.spotify.com/episode/0TxACB2RjTValyk3YnHQk7",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart - HEX.com $0.38 All Time High! World's Largest Airdrop! PulseChain.com Rolex Bitcoin Ethereum Dogecoin",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-09-06T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613a6ea7c3a73609b7ef3169"
+  },
+  "hide": false,
+  "guid": "https://medium.com/p/8c97e72b71c7",
+  "link": "https://matiallin.medium.com/hexconference-com-8c97e72b71c7?source=rss-4dbfe20fe159------2",
+  "parentLink": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "title": "HexConference.com",
+  "profileURL": "httpsmediumcomfeedmatiallin.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-09-09T20:10:35Z"
+  },
+  "twitter": "matiallin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614c48ebc3a73609b7f499cf"
+  },
+  "hide": false,
+  "guid": "spotify:episode:7D4aUN6Y5a14CgkUbE5PTS",
+  "link": "https://open.spotify.com/episode/7D4aUN6Y5a14CgkUbE5PTS",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart Livestream - Bitcoin Emergency! Bitcoin.org Has Been Hacked! HEX.com Did 10,000x Price!",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-09-23T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614c5e04c3a73609b7f4a028"
+  },
+  "hide": false,
+  "guid": "spotify:episode:4qKeR47w4RZue1tv07kzMG",
+  "link": "https://open.spotify.com/episode/4qKeR47w4RZue1tv07kzMG",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "The Highest Of Stakes Trailer (Audio Only)",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-09-22T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61544e0cc3a73609b7f70a4a"
+  },
+  "hide": false,
+  "guid": "spotify:episode:6y2DHnmpPTISpBZ8rWOHlL",
+  "link": "https://open.spotify.com/episode/6y2DHnmpPTISpBZ8rWOHlL",
+  "parentLink": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "title": "Richard Heart on Crypto Wendy - The Truth About Hex",
+  "profileURL": "httpsspotifeedtimdorrcom2UdKrcHnVbMyuAySNmgvUI.webp",
+  "isTestData": false,
+  "published": {
+    "$date": "2021-09-29T00:00:00Z"
+  },
+  "twitter": "HEXcrypto",
+  "__v": 0
+}]

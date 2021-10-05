@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "6041f72319e63c40406ea935"
+  },
+  "link": "https://www.blogtalkradio.com/thesouthbayshow/podcast",
+  "name": "The South Bay Show",
+  "limit": 2,
+  "isTestData": false,
+  "twitter": "masternodecnslt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6041f7954d2bba1498d2a6cf"
+  },
+  "link": "https://anchor.fm/s/37cfb84/podcast/rss",
+  "name": "Dollar Cost Crypto",
+  "twitter": "dollarcostcrypt",
+  "isTestData": false,
+  "limit": "1"
+},{
+  "_id": {
+    "$oid": "604204894d2bba1498d2a6d0"
+  },
+  "link": "https://medium.com/feed/@tldrtaylor",
+  "name": "Taylor Kennedy",
+  "isTestData": false,
+  "limit": 2,
+  "twitter": "250smurf"
+},{
+  "_id": {
+    "$oid": "604212394d2bba1498d2a6d2"
+  },
+  "link": "https://spotifeed.timdorr.com/2UdKrcHnVbMyuAySNmgvUI",
+  "name": "Hex Crypto Podcast",
+  "isTestData": false,
+  "limit": 3,
+  "twitter": "HEXcrypto"
+},{
+  "_id": {
+    "$oid": "604213494d2bba1498d2a6d3"
+  },
+  "link": "https://medium.com/feed/@cryptocoffee369",
+  "name": "Crypto Coffee",
+  "isTestData": false,
+  "limit": 1,
+  "twitter": "cryptocoffee369"
+},{
+  "_id": {
+    "$oid": "604213bc4d2bba1498d2a6d4"
+  },
+  "link": "https://medium.com/feed/@matiallin",
+  "name": "Mati Allin",
+  "isTestData": false,
+  "limit": 1,
+  "twitter": "matiallin"
+},{
+  "_id": {
+    "$oid": "604213f94d2bba1498d2a6d5"
+  },
+  "link": "https://medium.com/feed/@theriz",
+  "name": "Legend of Crypto",
+  "isTestData": false,
+  "limit": 1,
+  "twitter": "HeavyMetalRiz"
+},{
+  "_id": {
+    "$oid": "6042151b4d2bba1498d2a6d6"
+  },
+  "link": "https://bitcoindoctor.substack.com/feed",
+  "name": "Bitcoin Doctor",
+  "isTestData": true,
+  "limit": 1,
+  "twitter": "masternodecnslt"
+},{
+  "_id": {
+    "$oid": "6042153b4d2bba1498d2a6d7"
+  },
+  "link": "https://medium.com/feed/@cryptovince",
+  "name": "Crypto Vince",
+  "isTestData": false,
+  "limit": 2,
+  "twitter": "CryptoVince369"
+},{
+  "_id": {
+    "$oid": "604217f64d2bba1498d2a6d8"
+  },
+  "link": "https://hexicans.info/feed/",
+  "name": "Hexican Blogs",
+  "isTestData": true,
+  "limit": 1,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "604312e24d2bba1498d2a6d9"
+  },
+  "link": "https://hexguides.win/feed",
+  "name": "Hex Guides",
+  "isTestData": false,
+  "limit": 1,
+  "twitter": "hexguides"
+},{
+  "_id": {
+    "$oid": "606686c1984c0342203f4dd3"
+  },
+  "link": "https://medium.com/feed/@kmphua",
+  "name": "Kevin Phua",
+  "isTestData": false,
+  "limit": 2,
+  "twitter": "UncleKevinHex"
+},{
+  "_id": {
+    "$oid": "60d75ac0b2e84f1a086981f4"
+  },
+  "link": "https://medium.com/feed/@stakerapp",
+  "name": "Stakerapp",
+  "isTestData": false,
+  "limit": 1,
+  "twitter": "StakerApp"
+},{
+  "_id": {
+    "$oid": "6121adf0577c93c5ffabb845"
+  },
+  "link": "https://medium.com/feed/@CryptoWorldRev2",
+  "name": "CryptoWorldReview",
+  "isTestData": true,
+  "limit": 1,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "6122279761b118292b857dea"
+  },
+  "link": "https://spotifeed.timdorr.com/4BzHdMu7L434D7NZAgGevC",
+  "name": "Wave3TV",
+  "isTestData": true,
+  "limit": 1,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "6133a6c30b4b53c503237718"
+  },
+  "link": "https://medium.com/feed/@0xstef",
+  "name": "Stef",
+  "isTestData": false,
+  "limit": 1,
+  "twitter": "0xstef"
+}]

@@ -1,0 +1,2939 @@
+[{
+  "_id": {
+    "$oid": "5ff587c35e74a428649d25c1"
+  },
+  "searchKey": "bobross",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/bobross-profile_image-0b9dd167a9bb16b5-150x150.jpeg",
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff587c35e74a428649d25c2"
+  },
+  "searchKey": "kitboga",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/18d0e1da-6bc0-446e-a226-359d3baf3de6-profile_image-150x150.jpg",
+  "name": "Kitboga",
+  "title": "Scamming Scammers (day 2) [Ep.  880]",
+  "viewers": 9562,
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff587c35e74a428649d25c7"
+  },
+  "searchKey": "insomniac",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Insomniac",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/be6b7ece-3c44-4100-8744-3578d112c862-profile_image-150x150.png",
+  "title": " FUNTCASE's DPMO LABEL PARTY ft. SWEETTOOTH (Encore)",
+  "viewers": 597,
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff587c35e74a428649d25cf"
+  },
+  "searchKey": "Fatpigsignals",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Fatpigsignals",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/03de1b5a-08f8-11ea-9529-e2443572cd01",
+  "title": "Bitcoin Live Robot Signals Chat 24-7 FatPig ETH LTC XRP BCH ADA XLM NEO EOS DASH NEM IOTA TRON VEN",
+  "viewers": 57,
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bdc"
+  },
+  "searchKey": "richardheartwin",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/afd0f35e78799e03-profile_image-150x150.jpeg",
+  "live": false,
+  "name": "RichardHeartWin",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-04-14T09:19:25.585Z"
+  },
+  "twitter": "RichardHeartWin",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bdd"
+  },
+  "searchKey": "thehexologist",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/faf8e8fb-cbc1-41cd-bd46-a6fc7d01a18c-profile_image-150x150.png",
+  "live": false,
+  "name": "thehexologist",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-06-23T17:49:40.685Z"
+  },
+  "twitter": "Hexologist31",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bde"
+  },
+  "searchKey": "discourse__syndicate",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e6b1bfe-9cc4-4552-8785-3f1966ebfae0-profile_image-150x150.png",
+  "live": false,
+  "name": "Discourse__Syndicate",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-05T12:51:14.625Z"
+  },
+  "twitter": "DS_Network_",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bdf"
+  },
+  "searchKey": "hodldog",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/73c3eba8-0995-49cd-98c4-494b115aebad-profile_image-150x150.png",
+  "live": false,
+  "name": "hodldog",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-19T21:23:59.063Z"
+  },
+  "twitter": "hodldogofficial",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be0"
+  },
+  "searchKey": "cryptocoffee369",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/89db3ab1-871e-4ebb-8359-1877eb6bbcc8-profile_image-150x150.png",
+  "live": false,
+  "name": "cryptocoffee369",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-12T04:42:33.693Z"
+  },
+  "twitter": "CryptoCoffee369",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be1"
+  },
+  "searchKey": "BigPepCrypto",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d440c6cb-f889-4d1e-9aca-38d8e91620c8-profile_image-150x150.png",
+  "live": false,
+  "name": "BigPepCrypto",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-14T02:18:02.515Z"
+  },
+  "twitter": "BigPepCrypto",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be2"
+  },
+  "searchKey": "matiallin",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0df54d2-b7af-4d0f-94c0-57782da2c3b3-profile_image-150x150.png",
+  "live": false,
+  "name": "MatiAllin",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T00:59:27.789Z"
+  },
+  "twitter": "MatiAllin",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be4"
+  },
+  "searchKey": "RyanLopezCrypto",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3388a139-2d8b-4271-aa33-805595c0e8e8-profile_image-150x150.png",
+  "live": false,
+  "twitter": "RyanHEXLife",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be3"
+  },
+  "searchKey": "BallietBran",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8e880cf-2218-444b-a9f3-913c9fcbf672-profile_image-150x150.png",
+  "live": false,
+  "name": "ballietbran",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T21:07:33.886Z"
+  },
+  "twitter": "BallietBran",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be5"
+  },
+  "searchKey": "fundinggym",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/28d82f36-e493-40c9-a87b-49c9fc4d3bc6-profile_image-150x150.png",
+  "live": false,
+  "name": "FundingGym",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-26T03:33:08.235Z"
+  },
+  "twitter": "FundingGym",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be6"
+  },
+  "searchKey": "cabanacrypto",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/36a5144b-3d9b-4892-b370-bbe7de2a038f-profile_image-150x150.png",
+  "live": false,
+  "name": "cabanacrypto",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-02T01:39:40.916Z"
+  },
+  "twitter": "CabanaCrypto",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be7"
+  },
+  "searchKey": "joehexotic369",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2fb7c286-5f6e-4294-9f8f-33131e262018-profile_image-150x150.png",
+  "live": false,
+  "name": "JoeHexotic369",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-16T01:11:34.302Z"
+  },
+  "twitter": "HexoticJoe",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be8"
+  },
+  "searchKey": "chaosexperience",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3a51659-d9b9-4d79-b678-e303b75837f1-profile_image-150x150.png",
+  "live": false,
+  "name": "chaosexperience",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-27T13:52:23.885Z"
+  },
+  "twitter": "CCFXstudios",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6be9"
+  },
+  "searchKey": "day43og",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1f198c6-ddbe-44a8-9b1b-fabd98bf147e-profile_image-150x150.png",
+  "live": false,
+  "name": "day43og",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-15T14:46:58.417Z"
+  },
+  "twitter": "day43og",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bea"
+  },
+  "searchKey": "unrekt_pyrate",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/143fc477-b4ec-4de2-992c-3f05b2447a6a-profile_image-150x150.png",
+  "live": false,
+  "name": "unrekt_pyrate",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-05-04T07:41:57.665Z"
+  },
+  "twitter": "PyrateUnrekt",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bec"
+  },
+  "searchKey": "UCmogLEBMMWglIYou2XMMRUw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Discourse Syndicate",
+  "profileURL": "https://yt3.ggpht.com/LzB7NR4rMkqJri2wm7Mqy3nNXTsEp5DWDJr7oFKIgkpdqDTqYWmrjgZM7GJGIrm-tZjr7OWc=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-05T15:59:06.966Z"
+  },
+  "videoId": "z6xzRb3R568",
+  "twitter": "DS_Network_",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6beb"
+  },
+  "searchKey": "UCta3TYFhzfpPvOtKBDifYJA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Richard Heart",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQfC9YhfphDQpKqcoJInwWYtACGtx4VA3jUF8mo=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "QcJ4K2F3BMo",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T17:23:08.959Z"
+  },
+  "twitter": "RichardHeartWin",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bed"
+  },
+  "searchKey": "UCMg5TZr-VSgu7tYMSfHatVw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "hodl dog",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnjnOySdVyqUksWuDU9lE8tobpHtIaWyGZ5MrJMT=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "mj9JDEaBL28",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-01T16:11:06.219Z"
+  },
+  "twitter": "hodldogofficial",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bee"
+  },
+  "searchKey": "UCnoOPS7_9XUrVGs1fFkAZNA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Crypto Coffee",
+  "profileURL": "https://yt3.ggpht.com/otXRuaOQoWnrlcaN6YLTTFkN-BFNd7HtO1kJXbSmz7RreQZHX4h5cz0f6pr5g2Ax-bDt4pn0=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "WKVHEfrFJHs",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-23T02:41:11.424Z"
+  },
+  "twitter": "CryptoCoffee369",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bef"
+  },
+  "searchKey": "UClAAuvHzeMTFrOuk2ftMBNw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "twitter": "silver_antidote",
+  "name": "Silver The Antidote",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhtzbaG9Kon0JVQNe9D5nAEBuSh7b0Vt8MUa_589w=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-17T22:39:48.085Z"
+  },
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bf0"
+  },
+  "searchKey": "UCzCcncbvr6nCub7558fLhgQ",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Big Pep",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhGnXb_nKHVWxIxrm2UTgRYxDJwLfsDN6jL2uT9=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-13T16:09:06.905Z"
+  },
+  "videoId": "f1JObMhjd6U",
+  "twitter": "BigPepCrypto",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bf1"
+  },
+  "searchKey": "UCbCmk4kXKimyhEj18yZ82JA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Mati Allin HEX Therapy Live",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLS4wNHItC8d_ioHH2FSA9sYasTU2RXm3QHC_yPj=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T00:59:18.003Z"
+  },
+  "videoId": "5u1c7Yp8NOI",
+  "twitter": "MatiAllin",
+  "hideOffline": false,
+  "scheduledDate": {
+    "$date": "2021-10-06T00:30:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bf2"
+  },
+  "searchKey": "UCcLDVY9VjIrBK5bAIzJcCzQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "BallietBran",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSQKJGTeg7ezCQahiQeGujbdJcRGRd8IuhAkQXi4A=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T21:11:19.961Z"
+  },
+  "videoId": "a11MWPDpvfY",
+  "twitter": "BallietBran",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bf3"
+  },
+  "searchKey": "UCOG0DRACT4EGseHvJ11Q3oQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Ryan Lopez",
+  "profileURL": "https://yt3.ggpht.com/uFzKTFYipuSTzK9Se8e0qwxTGvWik9a8LPRFpgZALIFAa_e4AiwEjbBruC53iQpNLweiBA0sow=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-19T02:29:19.856Z"
+  },
+  "videoId": "KsjQ36XJ1ek",
+  "twitter": "RyanHEXLife",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bf4"
+  },
+  "searchKey": "UCp6K5Nu1YZVEH-xISzrnsHw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Yashdeep Singh",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhDyDm3u5h0ggmtZYrnmxNg2wb6BdxWDAiS5HToYAE=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "9G7FRGGIe-E",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-05-24T21:56:52.135Z"
+  },
+  "twitter": "yashdeep369",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bf5"
+  },
+  "searchKey": "UCiVYpbkvxw7duXJJdb5Cpxg",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Gifting You HEX",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQreAGBphUqSopCg_Gi4BgfXPRnyN-RcUnn30r0=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T21:05:26.935Z"
+  },
+  "videoId": "q_QSWSY97Z0",
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bf7"
+  },
+  "searchKey": "UCKL7h03mmp7Rjwl-Uvv-iwQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "videoId": "WwTcGYRqIB8",
+  "streamEnd": {
+    "$date": "2021-10-02T01:41:28.705Z"
+  },
+  "title": "",
+  "viewers": 0,
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQm2qjMnta4X9hyhJa5qeA6id5gB5RZu595Pm3T=s176-c-k-c0x00ffffff-no-rj",
+  "name": "Cabana Crypto",
+  "twitter": "CabanaCrypto",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bf8"
+  },
+  "searchKey": "UCma5N7UciWH0xINueNmN8aA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "twitter": "abit_hex",
+  "hideOffline": false,
+  "name": "abit_Hex",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnjx0xTTAS-NnsJLpT1_p784Kz8FheVxRf2v4O74TQ=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "dnqF8WD24GQ",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-04-16T19:59:51.624Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bf9"
+  },
+  "searchKey": "UCzfBhG4LvUeEWy2dyTCLg-A",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "twitter": "DavidFeder",
+  "hideOffline": false,
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQOBaneFU1rNeaFghMd2wS2fIm86WP11aQN456P=s176-c-k-c0x00ffffff-no-rj",
+  "name": "David Feder",
+  "title": "",
+  "videoId": "D-PzqkuQ6WA",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-24T00:42:43.242Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bfb"
+  },
+  "searchKey": "UC_m6lok7W59SSPxXHF_5wAw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Joe Hexotic",
+  "profileURL": "https://yt3.ggpht.com/-s9_vV-EgL0Q8vDCwZ2bxNM9dgDhLqZhwyvKaMeYVkUAcYAZS-TDvlvD5ym67mNnUcEpLTB4hQ=s176-c-k-c0x00ffffff-no-rj",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-16T01:11:28.608Z"
+  },
+  "title": "",
+  "videoId": "TnjiHMh0VVQ",
+  "twitter": "HexoticJoe",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bfa"
+  },
+  "searchKey": "UCq4rEwW4A_dYFEKmZzKMFWw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "twitter": "RandyHilarski",
+  "hideOffline": false,
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSgjZhedYznxxzA0NC63614mnP4Tp_aQjWLuiBevRU=s176-c-k-c0x00ffffff-no-rj",
+  "name": "Randy Hilarski",
+  "title": "",
+  "videoId": "8PhNsWJzaPI",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-08T16:05:33.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bfc"
+  },
+  "searchKey": "UCevYAWbTTlITi1mvFp_i-fA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Dollar Cost Crypto",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLRHfklPHaiCd5CXwY-S6R2URxAyxzum6_6jn65u=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-01T09:53:39.550Z"
+  },
+  "videoId": "T3vOeH89g7g",
+  "twitter": "dollarcostcrypt",
+  "hideOffline": false,
+  "scheduledDate": {
+    "$date": "2020-05-01T02:12:43Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bfd"
+  },
+  "searchKey": "UC6Kkd-N9hl7XkQOaQPmCdoA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "twitter": "barelycrafty",
+  "hideOffline": false,
+  "profileURL": "defaultprofile.png"
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bfe"
+  },
+  "searchKey": "UCibvmeGOV1d4EU1iDivgL1g",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Day43 OG",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSyO31T1He_ZP88tIf9bYdWYGlmjMwzOSiTwsGk=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-15T14:48:53.508Z"
+  },
+  "videoId": "d3cBgX3cHfU",
+  "twitter": "day43og",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6bff"
+  },
+  "searchKey": "UCxj2OVNvh1ViYwpnGtpksGA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "uNRekt Pyrate",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhfok2wa0OaR4sP6XQtY8LLGf1IUEuBaXUvfSbV=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-05-04T07:45:53.131Z"
+  },
+  "twitter": "PyrateUnrekt",
+  "hideOffline": false,
+  "scheduledDate": {
+    "$date": "2021-06-22T10:00:12Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c00"
+  },
+  "searchKey": "UCw6BlDykyO2qD7UelGw5dFw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "The Block Babes",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwngDlkfXaNOAr_sWk-N1OBc3f3A4p-KCKkyGNX9n=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-31T22:56:10.675Z"
+  },
+  "videoId": "0fvMoGcTnYg",
+  "twitter": "theblockbabes",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c01"
+  },
+  "searchKey": "UC9-wGAqVnWCdzOPC2iW1JBw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Despide Tu Jefe",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQCfr2tZosd80FoqWhc4dETS1B9aBdNGgKoZKaD=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-30T00:05:50.426Z"
+  },
+  "videoId": "l99G1TDSMpQ",
+  "twitter": "JonhnyAguilar",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c02"
+  },
+  "searchKey": "UCA-M7KEQ3Ha50UInqZuPj3g",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Kryptosparbuch",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSgqrcHDzlbmcKuWx-I5VFn_jhIi8t3EtSFx2E=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T20:05:53.336Z"
+  },
+  "videoId": "ZZGtnSVqqEk",
+  "twitter": "Kryptosparbuch",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c03"
+  },
+  "searchKey": "UC6qAIbqDgf51nmvZyZ1tKuQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Wave3TV",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwniymkv3p9MR5OO9e7mK2uVnaCQ7nqE-wYCCP_DU=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "D_p_hjmQhgA",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-30T04:05:54.899Z"
+  },
+  "twitter": "Wave3TV",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c04"
+  },
+  "searchKey": "UCqon5XlVzlPIzwg-xTdgq0Q",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "twitter": "",
+  "hideOffline": false,
+  "profileURL": "defaultprofile.png"
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c05"
+  },
+  "searchKey": "UCDI_K30WpYjktUbKyhDZZ0w",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Pulsechain \\u0026 Hex",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLTqjoHAlj1sOsJdjpiDa6c8UROKryG9Ukcv7oRz=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "GcN_OkK9XMk",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-05T19:19:12.831Z"
+  },
+  "twitter": "askconradzen",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c06"
+  },
+  "searchKey": "UCiv9ft_RUx4N8KLMUZDWgCQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "James Robbie",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnjVDdFk2k0bFQIxPW6sDQxaTYDt7ftFDBZ5X0gsCQ=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-09T06:42:20.227Z"
+  },
+  "videoId": "sv7-WCCANm4",
+  "twitter": "PyrateUnrekt",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c07"
+  },
+  "searchKey": "HEXOLOGIST",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "HEXOLOGIST",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/c3e9bd91-5a97-11ea-9fd3-a272e850df75",
+  "live": false,
+  "twitter": "Hexologist31",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c08"
+  },
+  "searchKey": "Discourse_Syndicate",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "Discourse_Syndicate",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/1f993fa3-afde-11ea-b737-e2443572cd01",
+  "live": false,
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-02T16:25:31.537Z"
+  },
+  "twitter": "RG3_Pirate",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c09"
+  },
+  "searchKey": "hodl.dog",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "hodl.dog",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/ab9a16b2-fc52-11ea-8490-626a2067d975",
+  "live": false,
+  "twitter": "hodldogofficial",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c0a"
+  },
+  "searchKey": "matiallin",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "matiallin",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/84cda9e2-2c78-11eb-b3bd-626a2067d975",
+  "live": false,
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-01-31T08:00:45.240Z"
+  },
+  "twitter": "MatiAllin",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c0b"
+  },
+  "searchKey": "BallietBran",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "BallietBran",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/4bbc31db-d51a-11ea-8490-626a2067d975",
+  "live": false,
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-03T19:41:56.170Z"
+  },
+  "twitter": "BallietBran",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c0c"
+  },
+  "searchKey": "RyanLopez",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "RyanLopez",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/14699fc4-4543-11eb-a5d7-0e5861c697dd",
+  "live": false,
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-01-10T18:13:36.398Z"
+  },
+  "twitter": "RyanHEXLife",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c0d"
+  },
+  "searchKey": "FundingGym",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "FundingGym",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/68dbc2fc-6de5-11e9-8e4c-d2f0bb57570b",
+  "live": false,
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-03T03:36:04.886Z"
+  },
+  "twitter": "FundingGym",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c0e"
+  },
+  "searchKey": "cabanacrypto",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "cabanacrypto",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/eef52d89-bc27-11ea-b737-e2443572cd01",
+  "live": false,
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-01-31T19:45:19.199Z"
+  },
+  "twitter": "CabanaCrypto",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c0f"
+  },
+  "searchKey": "abit_Hex",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "abit_Hex",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/715996fb-e40b-11ea-8490-626a2067d975",
+  "live": false,
+  "twitter": "abit_hex",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c10"
+  },
+  "searchKey": "DavidFeder",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "DavidFeder",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/43253cba-1b07-11eb-aed2-be53b0f89a8c",
+  "live": false,
+  "twitter": "DavidFeder",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c11"
+  },
+  "searchKey": "JoeHexotic",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "JoeHexotic",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/214afcd5-3f6c-11eb-a5d7-0e5861c697dd",
+  "live": false,
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-02T03:04:14.480Z"
+  },
+  "twitter": "HexoticJoe",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c12"
+  },
+  "searchKey": "unRektPyrate",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "unRektPyrate",
+  "profileURL": "https://image.dlivecdn.com/avatar/default18.png",
+  "live": false,
+  "twitter": "PyrateUnrekt",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff5ae49c7a99134d46f6c13"
+  },
+  "searchKey": "DespideTuJefe",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "__v": 0,
+  "name": "DespideTuJefe",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/default5.png",
+  "live": false,
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-01-07T23:50:33.744Z"
+  },
+  "twitter": "JonhnyAguilar",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ff8de2e05101a3e4455690e"
+  },
+  "searchKey": "UCtn_RnrurIFLtE0Jl9enJUA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "Cryptygirl",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwngJSkWDYHeD9v7bPG2dn_iZaP2bNe7gjIGIJDew=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-19T04:08:47.225Z"
+  },
+  "videoId": "zn8QO1HAo7E",
+  "twitter": "cryptygirl",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ffba80f05101a3e4455690f"
+  },
+  "searchKey": "UCv5WzvYQ7WU4-8g1UCbVRcA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "Dip Catcher",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSrkC7D20LiS7IZl9svd26uhbEEM_anGkIgGJd-=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-28T01:35:59.284Z"
+  },
+  "videoId": "O9BUFNQ_K8I",
+  "twitter": "tantonomini",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ffbd88105101a3e44556910"
+  },
+  "searchKey": "UCrrFshqnoxxucH4xwDWdsUw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "Motley Investor",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwninlI36TIoqVc2YoZpsLHzuQO_v69f5alOaynBQIw=s176-c-k-c0x00ffffff-no-rj",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-24T00:12:06.568Z"
+  },
+  "title": "",
+  "videoId": "YwJbMFNl8QI",
+  "twitter": "MotleyInvestor",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5ffcf1d931de861358462087"
+  },
+  "searchKey": "DespideTuJefe",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "live": false,
+  "name": "DespideTuJefe",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5102dc2-a9bd-4f53-aad7-5532ff308186-profile_image-150x150.png",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-07T23:59:08.453Z"
+  },
+  "twitter": "JonhnyAguilar",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5ffddccc31de861358462088"
+  },
+  "searchKey": "barelycrafty",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "live": false,
+  "name": "BarelyCrafty",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ff1f7fa-44da-493d-9b01-c192a0e2261a-profile_image-150x150.png",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-05-05T10:02:04.416Z"
+  },
+  "twitter": "BarelyCrafty",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "5fff2dc93a925d550851dae5"
+  },
+  "searchKey": "kryptosparbuch",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "live": false,
+  "name": "kryptosparbuch",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/ce0b182e-22e2-11eb-b3bd-626a2067d975",
+  "title": "⬣ HEX at 1ct AGAIN!!! - Interview with @elhexidente ⬣",
+  "viewers": 2,
+  "streamEnd": {
+    "$date": "2021-01-31T20:15:34.152Z"
+  },
+  "twitter": "Kryptosparbuch",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5fff57ba3a925d550851dae6"
+  },
+  "searchKey": "UCKsWJkP-_rMUdJet74QSU1w",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "name": "Young's Vlog",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwngvRziaM1pssZgaClxpEdhvntnTuWKqrXeOBKNK7A=s176-c-k-c0xffffffff-no-rj-mo",
+  "title": "Chattercherch",
+  "videoId": "mGHFYWZ09tA",
+  "viewers": 31,
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5fff598b3a925d550851dae7"
+  },
+  "searchKey": "UCz1D0n02BR3t51KuBOPmfTQ",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "name": "England \\u0026 Wales Cricket Board",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhHWy6peVIYHfnmgauOvWOe-dj8jp3XaA3NFjlVmQ=s176-c-k-c0xffffffff-no-rj-mo",
+  "videoId": "lzYvRTFORAg",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-01-14T03:36:18.234Z"
+  },
+  "title": "",
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "5fff98ea3a925d550851dae9"
+  },
+  "searchKey": "spirithex1",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "live": false,
+  "name": "spirithex1",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c32f95a6-85c8-4aae-9cce-35a8fc3cce82-profile_image-150x150.png",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-13T05:20:51.203Z"
+  },
+  "twitter": "calibreftw",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "6003d4a0fa7c7a1040544922"
+  },
+  "searchKey": "david_feder",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6c5c1aa-f881-425e-85a0-0828c574c662-profile_image-150x150.png",
+  "name": "David_Feder",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-24T00:43:15.935Z"
+  },
+  "twitter": "DavidFeder",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "600492d77e462b33a442cfa1"
+  },
+  "searchKey": "HEX_TA",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "live": false,
+  "name": "HEX_TA",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/8d8d357d-0194-11eb-8cd4-c20daac9fa96",
+  "twitter": "",
+  "hideOffline": false,
+  "viewers": "0",
+  "title": "HEX Technical Analysis",
+  "streamEnd": {
+    "$date": "2021-03-24T02:56:34.152Z"
+  }
+},{
+  "_id": {
+    "$oid": "6008767b05127c13e099f847"
+  },
+  "searchKey": "emmonspired",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a67ef882-2272-45e0-9d64-8a7a02fdb167-profile_image-150x150.png",
+  "name": "emmonspired",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-01-29T23:21:33.172Z"
+  },
+  "twitter": "Emmonspired",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "6009c2c0b30f7a30d0ea0663"
+  },
+  "searchKey": "UCJWCJCWOxBYSi5DhCieLOLQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "aantonop",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLTyUmUTZfJ5K6YzrC8tR26c55LXiT9Scc3s3hGdvA=s176-c-k-c0x00ffffff-no-rj",
+  "videoId": "PV8TB_HmIeU",
+  "viewers": 0,
+  "twitter": "",
+  "title": "",
+  "hideOffline": true,
+  "streamEnd": {
+    "$date": "2021-09-26T18:06:09.297Z"
+  }
+},{
+  "_id": {
+    "$oid": "600a0601b30f7a30d0ea0664"
+  },
+  "searchKey": "dj_cryptomatic",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "live": true,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/12603bee-fa2a-4a0c-ab73-1f1c26422937-profile_image-150x150.png",
+  "name": "DJ_cRYPTOMATic",
+  "title": "[HEX-N-SOUL] :: [80 Soul, Disco & Funk Classics] :: [Staking Music] :: [ENG/GER]",
+  "viewers": 15,
+  "streamEnd": {
+    "$date": "2021-09-30T22:08:10.621Z"
+  },
+  "twitter": "DJ_cryptomatic",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "600b39a8064d002778dc62ae"
+  },
+  "searchKey": "UCduLugW5-tkzxIde8Iz72mw",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "name": "Digital Cash Network",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnjuSybA_0S3U8MIGWKdMaVZLEsp_V2z0b_XAWnf=s176-c-k-c0xffffffff-no-rj-mo",
+  "videoId": "eIAJdwMcr_4",
+  "viewers": 15,
+  "title": "Digital Cash Rundown 10 with Nicole Grinstead: Price Dump, Craig Wright Sues, 51% Attack and More!",
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "600cdbe651b0900fb04d3779"
+  },
+  "searchKey": "whalesonly",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "live": false,
+  "name": "whalesonly",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c28fec1-3b7b-4218-971e-42aecab4eef3-profile_image-150x150.png",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-01-26T02:18:08.842Z"
+  },
+  "twitter": "whalesonly1",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "600e37d0ad79390d6056bb79"
+  },
+  "searchKey": "UCz5VudS3Xfile_p3OR7dQtw",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "name": "Cultivate Crypto",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQRYDjOXXNncHDJEaj6j2NGb6liMC44Nfj2RauD=s176-c-k-c0x00ffffff-no-rj",
+  "title": "Cultivate Crypto #321: Crypto Reset - Bullish Or Bearish For 2021?",
+  "videoId": "2NwSbups_gE",
+  "viewers": 232,
+  "streamEnd": {
+    "$date": "2021-07-12T04:01:20.117Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "600f3e3e5039851c2881e827"
+  },
+  "searchKey": "Dlives-mom",
+  "streamType": "DLIVE",
+  "isTestData": true,
+  "live": false,
+  "name": "Dlives-mom",
+  "profileURL": "https://images.prd.dlivecdn.com/avatar/0373f1b8-1a1c-11eb-aed2-be53b0f89a8c",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-01-27T02:39:30.582Z"
+  },
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "600f537e5039851c2881e828"
+  },
+  "searchKey": "UC4cjfUjNZcCSSjnFb8_AVwA",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "name": "Donald Brant",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnjVfPsrtnwle0dSvziK5N2zO46b-hVffk_LR1zb0EE=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "HlmlltaJoq4",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-30T16:54:57.610Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "600f81be5039851c2881e829"
+  },
+  "searchKey": "UCY80wj26twHjLvPQNV_2cag",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "whalesonly",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLR5LvAWqog1KI2r8yYjcOLWzJ1UYo0ao4OYJYQd=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "QN-E1_w7Ei0",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-05T00:00:12.224Z"
+  },
+  "twitter": "whalesonly1",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "6010d934526dcb2eb4e66c0d"
+  },
+  "searchKey": "lordlilygrace",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8638718b-cbac-4ab4-a087-d91cd19da1e1-profile_image-150x150.png",
+  "name": "LordLilyGrace",
+  "title": "🧸 new toys & emotes! 🧸  ₿: Lilygrace.eth ₿ ⬤ !socials",
+  "viewers": 15,
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60119c3cdcb25539bc9e1b0d"
+  },
+  "searchKey": "sienzuf",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4577e698-3cb2-470c-a415-c2f92d65a77a-profile_image-150x150.png",
+  "name": "sienzuf",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-15T14:36:15.026Z"
+  },
+  "twitter": "Sienzuf",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "60150f496d172330f0828ae2"
+  },
+  "searchKey": "anamariaciurea",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/056a783d-e367-4546-a2a6-587f4c062a23-profile_image-150x150.png",
+  "name": "anamariaciurea",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-01-30T10:35:46.087Z"
+  },
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "6018c8b673201b3f98371581"
+  },
+  "searchKey": "discoursesyndicate",
+  "streamType": "THETA",
+  "isTestData": true,
+  "live": false,
+  "name": "DiscourseSyndicate",
+  "profileURL": "https://user-prod-theta-tv.imgix.net/usrzfep4zduci5n61yv/avatar/1609397655714.jpg?w=256&quot",
+  "title": "Biggest FN Hangout to Date! Huge names in Crypto on tonight!!!! Hex Las Vegas!",
+  "viewers": 1,
+  "streamEnd": {
+    "$date": "2021-07-15T18:14:25.158Z"
+  },
+  "twitter": "RG3_Pirate",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "601901bd73201b3f98371582"
+  },
+  "searchKey": "wpt",
+  "streamType": "THETA",
+  "isTestData": true,
+  "live": false,
+  "name": "WorldPokerTour",
+  "title": "World Poker Tour 24/7 Powered by the THETA Network.",
+  "viewers": 46,
+  "profileURL": "https://user-slivertv.imgix.net/usr40pd7xmkk188a5uz/avatar/1588257872421.jpg?w=150",
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "601a112acec98425bc3698cd"
+  },
+  "searchKey": "The_Joker",
+  "streamType": "TROVO",
+  "isTestData": true,
+  "live": false,
+  "name": "The_Joker",
+  "profileURL": "https://headicon.trovo.live/user/32z7mbiaaaaaauo25eq32ga2cy.jpeg?t=4&amp;max_age=31536000&amp;imageView2/2/w/100/h/100/format/webp",
+  "title": "#PSGSUCKS <--- Don't support these idiots\" ",
+  "viewers": 83,
+  "streamEnd": {
+    "$date": "2021-03-01T23:45:51.574Z"
+  },
+  "twitter": "TheHEXJoker",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "601a172acec98425bc3698ce"
+  },
+  "searchKey": "Musicislove",
+  "streamType": "TROVO",
+  "isTestData": true,
+  "live": false,
+  "name": "MusicisLove",
+  "profileURL": "https://headicon.trovo.live/user/3e77obiaaaaaa5g4o3kbary7cy.jpeg?t=0&amp;max_age=31536000&amp;imageView2/2/w/100/h/100/format/webp",
+  "title": "🔴24/7🔴♕NoMicGaming♕🎶Your Daily Mana Station🎶  ™ !level !point system is back\" ",
+  "viewers": 130,
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "601ca32f4ec10e3a8c01b60b"
+  },
+  "searchKey": "UCadhrApSRovB7V8EwH7pVDw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "CryptoJoker",
+  "profileURL": "https://yt3.ggpht.com/nQUMyf3MhwyzL9-tFs3SVsVYVeQ0hrmvcjtlxG0Q7I9ErxNtYXkdeQaxJe6Ji0AYskz934_8lPM=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "-yZa4mMxVnQ",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-24T00:48:12.809Z"
+  },
+  "twitter": "TheHEXJoker",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "601cf1731f73d908549aa6e9"
+  },
+  "searchKey": "beeredossiettv",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c269e21-4084-4c68-9592-5089baa2e8fd-profile_image-150x150.png",
+  "name": "beeredossiettv",
+  "title": "Driving Miles! Join in!",
+  "viewers": 5,
+  "streamEnd": {
+    "$date": "2021-03-25T02:53:27.442Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "601cf21c1f73d908549aa6ea"
+  },
+  "searchKey": "beeredossie",
+  "streamType": "THETA",
+  "isTestData": true,
+  "live": false,
+  "name": "beeredossie",
+  "profileURL": "https://user-slivertv.imgix.net/usrqdw5jrzuji65fwck/avatar/1582228546.jpg?w=150",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-27T23:01:14.203Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "6020b760efee880550838c0f"
+  },
+  "searchKey": "UCUf9mGTcUhunNFaOOphWllQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "twitter": "tobe1971",
+  "hideOffline": false,
+  "profileURL": "defaultprofile.png"
+},{
+  "_id": {
+    "$oid": "6020b797efee880550838c10"
+  },
+  "searchKey": "tobiwanhexobi",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bf1c15b-b2f9-49b4-aed6-2d6d420a3025-profile_image-150x150.png",
+  "twitter": "tobe1971",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "6020b7b7efee880550838c11"
+  },
+  "searchKey": "TobiwanHexobi",
+  "streamType": "DLIVE",
+  "isTestData": false,
+  "twitter": "tobe1971",
+  "hideOffline": false,
+  "profileURL": "defaultprofile.png"
+},{
+  "_id": {
+    "$oid": "6020b836efee880550838c12"
+  },
+  "searchKey": "TobiwanHexobi",
+  "streamType": "THETA",
+  "isTestData": true,
+  "live": false,
+  "name": "TobiwanHexobi",
+  "twitter": "tobe1971",
+  "hideOffline": true,
+  "profileURL": "defaultprofile.png"
+},{
+  "_id": {
+    "$oid": "6024c737f1bef12a4cca079c"
+  },
+  "searchKey": "UCL1ZOYlxbKEk_u3bOR2HP3w",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "name": "Merlins Goat",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwniuQ3L2crcdJ8BjGtJ4DS2R02GBhWeOs_zuno6T=s176-c-k-c0x00ffffff-no-rj",
+  "title": "Cooking some Food - Free TTS",
+  "videoId": "IfeTZIxBx3I",
+  "viewers": 11,
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "6024cc48f1bef12a4cca079d"
+  },
+  "searchKey": "UCfF9ZO8Ug4xk_AJd4aeT5HA",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "name": "ETHGlobal",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhnUXWE0QK9Fjyz63BTSoerRVB41wFXLDX1bO_N-A=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "6xNL11JxxnU",
+  "viewers": 0,
+  "twitter": "",
+  "hideOffline": true,
+  "streamEnd": {
+    "$date": "2021-03-19T21:24:16.350Z"
+  },
+  "scheduledDate": {
+    "$date": "2021-03-17T15:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "60255edfac42b64454c59fdb"
+  },
+  "searchKey": "cryptocoffee369",
+  "streamType": "THETA",
+  "isTestData": true,
+  "live": false,
+  "name": "cryptocoffee369",
+  "twitter": "CryptoCoffee369",
+  "profileURL": "https://user-prod-theta-tv.imgix.net/usrdfqttgmuew9vapqe/avatar/1612397465072.jpg?w=150",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-06-13T21:32:37.165Z"
+  },
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "6025cbd5ac42b64454c59fdc"
+  },
+  "searchKey": "matiallin",
+  "streamType": "THETA",
+  "isTestData": true,
+  "live": false,
+  "name": "matiallin",
+  "twitter": "MatiAllin",
+  "hideOffline": true,
+  "profileURL": "defaultprofile.png"
+},{
+  "_id": {
+    "$oid": "60260363ac42b64454c59fdd"
+  },
+  "searchKey": "cabanacrypto",
+  "streamType": "THETA",
+  "isTestData": true,
+  "live": false,
+  "name": "CabanaCrypto",
+  "twitter": "CabanaCrypto",
+  "hideOffline": true,
+  "profileURL": "defaultprofile.png"
+},{
+  "_id": {
+    "$oid": "60269380807b9939dca7ea9f"
+  },
+  "searchKey": "UCif4_TU3mRnVYhnqZi8ZskA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "Crypto Vince",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwngEXVZWGk8tj4NmfZllm2xg2z9sKBdZPwA5VtEa-Q=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "lZXNAzwnb-E",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-02-21T14:45:10.164Z"
+  },
+  "twitter": "CryptoVince369",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "602751b8807b9939dca7eaa0"
+  },
+  "searchKey": "UChz5HWqFBRxM6P5dTLNSLOQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "NAGA Tribe",
+  "title": "",
+  "videoId": "MfG6dJyJEU0",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQxYb_ogxQkhGjVQzuCCfCKwiVGgLXzUaAyMLM3NA=s176-c-k-c0x00ffffff-no-rj",
+  "streamEnd": {
+    "$date": "2021-08-23T23:42:14.057Z"
+  },
+  "twitter": "nagabeau",
+  "hideOffline": false,
+  "viewers": 0,
+  "scheduledDate": {
+    "$date": "2020-10-13T21:37:55Z"
+  }
+},{
+  "_id": {
+    "$oid": "602864818cc2da1664c2e549"
+  },
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "searchKey": "UCOgTkXCst3xzfZULYSupOdg",
+  "live": false,
+  "hideOffline": false,
+  "name": "Big Pep",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLScjVWoodsb8T0yys7Ae_s5mqbsUikL4vDrDWcG=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "tXU4nnFEYbQ",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-02T16:48:23.675Z"
+  },
+  "twitter": "BigPepCrypto"
+},{
+  "_id": {
+    "$oid": "6028cb928cc2da1664c2e54a"
+  },
+  "searchKey": "UCjemQfjaXAzA-95RKoy9n_g",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "name": "BitBoy Crypto",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLTzk3i8R50fSL4_By41GN2FyBjKV_CR-noQpM92=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "_aI0A9cej8c",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-09T16:38:46.735Z"
+  },
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "6028d1078cc2da1664c2e54b"
+  },
+  "searchKey": "UC6pJn6lFlHSB2yl49nwGI8w",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "name": "Alaska Prepper",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwniMetPhg5Owg27ACUE8lbsltkdAyRXKUETpkbtNgA=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "OeVDK7n4AjE",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-05-30T21:34:01.333Z"
+  },
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "6029658a656150257cadc113"
+  },
+  "searchKey": "UC5_CBiOIicXstYyTRnrBUQQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "twitter": "Markable_HEX",
+  "hideOffline": true,
+  "name": "Markable Thoughts",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLRjOBFTmuesPBak8ToLt48ohNxholHbx0nLXgj2=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "K4AWpX0HsnA",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-01T12:30:20.020Z"
+  }
+},{
+  "_id": {
+    "$oid": "60298c01656150257cadc114"
+  },
+  "searchKey": "UCFpToarIGd1mrGKwN32OexQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "Sweetwater Digital Asset Consulting",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwngBHKRanFNL0aXWSW4FQUpycBv2J-5nd5axwzHb=s176-c-k-c0x00ffffff-no-rj",
+  "title": "Behavioral Finance, Cryptocurrency Markets",
+  "videoId": "REC5V7d3pqM",
+  "viewers": 0,
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "6029f752656150257cadc115"
+  },
+  "searchKey": "UCla2jS8BrfLJj7kbKyy5_ew",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "live": false,
+  "hideOffline": true,
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnjGqV7Zw8eHu5xpYcNWRua6eLDXz_OGjC7hMiuH=s176-c-k-c0x00ffffff-no-rj",
+  "name": "CryptoWendyO",
+  "title": "",
+  "videoId": "vyQpEmKsA9U",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-08T03:05:57.437Z"
+  },
+  "scheduledDate": {
+    "$date": "2021-03-15T01:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "6029fd8c656150257cadc116"
+  },
+  "searchKey": "UCP0g6ygQkYjmog801YnNqtQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "hideOffline": true,
+  "name": "Davincij15",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLTdVzEcEwo6Iq2DS3VC25WuwJzm-8wjpgAVbWLfXA=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "iwxf6mOvCls",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-04T23:48:25.459Z"
+  }
+},{
+  "_id": {
+    "$oid": "602b6fc776919f15dcaaf482"
+  },
+  "searchKey": "kryptosparbuch",
+  "streamType": "THETA",
+  "isTestData": true,
+  "live": false,
+  "name": "kryptosparbuch",
+  "hideOffline": true,
+  "profileURL": "defaultprofile.png"
+},{
+  "_id": {
+    "$oid": "602eeaca34591d1ebc5e7491"
+  },
+  "searchKey": "hexdertsaw",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "hideOffline": true,
+  "live": false,
+  "name": "hexdertsaw",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f93c3ecb-e1b6-4a77-b5e2-3d13cf20106e-profile_image-150x150.png",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-17T00:41:29.780Z"
+  }
+},{
+  "_id": {
+    "$oid": "602fd7039ed30128584121ed"
+  },
+  "searchKey": "UCfGTzEQaBxuwQh7MnPSajJQ",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLR2oiAq288H7kY8tqfVMX44cK2mbodpGzCCjxlf=s176-c-k-c0x00ffffff-no-rj",
+  "name": "The Crypto Factor",
+  "hideOffline": true,
+  "live": false,
+  "title": "BTC HODLER, XRP Army, Safemoon Delusionist, This Video is for YOU (Yes You)!",
+  "videoId": "CO93xnoHCys",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-25T17:01:40.140Z"
+  },
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "60312e8a37facc32b897e270"
+  },
+  "searchKey": "UCwT0P1tQjSEOpaLYdhgfVTw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "hideOffline": true,
+  "live": false,
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSMdUVgYJE0BwIhzP-sida29mVwn6H3N7sNCFuT=s176-c-k-c0x00ffffff-no-rj",
+  "name": "CryptoCretin",
+  "title": "",
+  "videoId": "IyV7JRwSlqY",
+  "viewers": 0,
+  "twitter": "",
+  "streamEnd": {
+    "$date": "2021-10-02T22:18:31.855Z"
+  },
+  "scheduledDate": {
+    "$date": "2021-06-16T00:44:13Z"
+  }
+},{
+  "_id": {
+    "$oid": "603451bc3754d03fdce927d4"
+  },
+  "searchKey": "UCWHIQ8ChlXfCCbqfBh4iLoQ",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "hideOffline": true,
+  "live": false,
+  "name": "Kenn Bosak",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnio7XqrYQFjFCsDu7exkRn0ttnVz8QMtvrAhqOIzRM=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "LGOej7NoJOg",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-30T17:15:46.409Z"
+  }
+},{
+  "_id": {
+    "$oid": "603506853b9417399cb55c23"
+  },
+  "searchKey": "UCQEQPMfXjgzJoxX4wHOf4ow",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "hideOffline": true,
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwngsWZRKmj_1R_MydQhzYPUJFOYCu_uWiZMXZNvTfw=s176-c-k-c0x00ffffff-no-rj",
+  "name": "Wild West Crypto Show",
+  "live": false,
+  "title": "",
+  "videoId": "XGscTW69dK8",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-06-03T20:39:27.549Z"
+  }
+},{
+  "_id": {
+    "$oid": "6035289d466701440c12073b"
+  },
+  "searchKey": "UC1QFCL4wEDaAdfXQxDMgr7Q",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "hideOffline": true,
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnjYkOTGCzdMyas6H0Xcgt8kB0ILzkOGp5lEgqqisQ=s176-c-k-c0x00ffffff-no-rj",
+  "name": "CB TV [Crypto Blood]",
+  "live": false,
+  "title": "",
+  "videoId": "XqtKcdBpgwU",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-20T22:40:39.429Z"
+  }
+},{
+  "_id": {
+    "$oid": "603534cc466701440c12073c"
+  },
+  "searchKey": "UCAl9Ld79qaZxp9JzEOwd3aA",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "hideOffline": true,
+  "live": false,
+  "name": "Bankless",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhwqC-ChLCrQCSjuHRujnvrZ3AxRtBW-9Bb2obo=s176-c-k-c0x00ffffff-no-rj",
+  "title": "SotN #51: Pioneering Crypto Culture, w/ NEW BANKLESS HOST",
+  "videoId": "3Vb2kZ8dCIg",
+  "viewers": 152,
+  "streamEnd": {
+    "$date": "2021-06-19T02:13:12.695Z"
+  }
+},{
+  "_id": {
+    "$oid": "60358727466701440c12073e"
+  },
+  "searchKey": "hex_cellent",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "hideOffline": true,
+  "live": false,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3616036-2437-4ced-9f53-3b3ea7e8c957-profile_image-150x150.png",
+  "name": "HEX_cellent",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-05-17T17:19:52.612Z"
+  }
+},{
+  "_id": {
+    "$oid": "6036f6b8a922d319f832fbd9"
+  },
+  "searchKey": "UC5iIMSmYtGgoCcl46iiPY6Q",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "hideOffline": true,
+  "live": false,
+  "name": "Beered Ossie",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwngm_35v5K4paceYyNuNL61CxGkKZ1DZRC_RNu8w=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "8dAS-WyCti8",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-20T02:36:44.650Z"
+  },
+  "scheduledDate": {
+    "$date": "2021-02-24T18:52:55Z"
+  }
+},{
+  "_id": {
+    "$oid": "6037a74d0049342d589dee90"
+  },
+  "searchKey": "souljaboy",
+  "streamType": "TWITCH",
+  "hideOffline": true,
+  "isTestData": true,
+  "live": false,
+  "name": "souljaboy",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/987cf0b2-0b47-45db-8b1d-3814e633f04b-profile_image-150x150.png",
+  "title": "SOULJA WORLD RP V.2 LAUNCH!!!!!!!!!!",
+  "viewers": 3106
+},{
+  "_id": {
+    "$oid": "603bdc2460669b375061a57d"
+  },
+  "searchKey": "UCG2YaECrce2XXK1bFQNlZvw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "hideOffline": false,
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQT8fyIHlLvNde7MpecLntxo3wQ2lUQ5DIz2A-V=s176-c-k-c0x00ffffff-no-rj",
+  "twitter": "hexasians",
+  "name": "HexAsians",
+  "live": false,
+  "title": "",
+  "videoId": "e6AuHX9cs9M",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-30T14:06:36.006Z"
+  }
+},{
+  "_id": {
+    "$oid": "603bec7c60669b375061a57e"
+  },
+  "searchKey": "motleyinvestor",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "twitter": "MotleyInvestor",
+  "hideOffline": true,
+  "live": false,
+  "name": "MotleyInvestor",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/78e0d8b5-7d7f-43c0-b5c7-469ec8b9f814-profile_image-150x150.png",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-24T00:12:28.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "603d6218bb78d938ac32012f"
+  },
+  "searchKey": "UCMUSYMEFc9xUL8Nwgv8qfTg",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "hideOffline": false,
+  "name": "Upfront Crypto",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwng0PGerL65YaML6vOQ5ao4dESdRRPaFKCgcpS8s=s176-c-k-c0x00ffffff-no-rj",
+  "twitter": "upfrontcrypto",
+  "live": false,
+  "title": "",
+  "videoId": "PHEz227DDkA",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-02T18:59:22.620Z"
+  },
+  "scheduledDate": {
+    "$date": "2021-03-04T18:30:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "603d64b6bb78d938ac320130"
+  },
+  "searchKey": "UCpLBXIofqy8oYfZ2R1YuHOg",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "hideOffline": false,
+  "name": "Tales From The Crypto",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhxE571rVdEit_AdKMfTRVUKmp_JlTwadRUeVH7Vw=s144-c-k-c0x00ffffff-no-rj",
+  "twitter": "Talescrypto369",
+  "live": false
+},{
+  "_id": {
+    "$oid": "6040039af538fe158c5ca9cc"
+  },
+  "searchKey": "UCuifm5ns5SRG8LZJ6gCfKyw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "hideOffline": true,
+  "name": "The Rich Dad Channel",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSOjQxuPE0N5nm0DKC2AR3HCizngU8NdLPOm83zRQ=s176-c-k-c0x00ffffff-no-rj",
+  "live": false,
+  "title": "",
+  "videoId": "QmBnF2K826M",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-29T17:00:40.028Z"
+  }
+},{
+  "_id": {
+    "$oid": "6041207cb807293900cd4846"
+  },
+  "searchKey": "UCuulLHp0eyXnl9yAao_pbEA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "hideOffline": true,
+  "name": "Chris Blec on DeFi",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwni-YOjQ0_Pzga_UUA4WwWP1THzCp8FocWAiiI9G=s176-c-k-c0x00ffffff-no-rj",
+  "live": false,
+  "title": "",
+  "videoId": "HMHE7jwG_pg",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-22T18:41:41.979Z"
+  }
+},{
+  "_id": {
+    "$oid": "60414607b807293900cd4847"
+  },
+  "searchKey": "UCavTvSwEoRABvnPtLg0e6LQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "hideOffline": true,
+  "name": "Crypto Tips",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLTbVJjnQK5jnJDp1L4diN8pI6u-SR4HHChaAK-rig=s176-c-k-c0x00ffffff-no-rj",
+  "live": false,
+  "title": "",
+  "videoId": "Hjs0vrWux34",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-03T02:27:04.055Z"
+  }
+},{
+  "_id": {
+    "$oid": "604190b3b807293900cd4848"
+  },
+  "searchKey": "UCWZbtMeOAb_qpEVUl551l7w",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "hideOffline": true,
+  "title": "",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhx4zf5Y1vTRAdxwXx9IRClw7_t_DemfbhXvt8uIQ=s176-c-k-c0x00ffffff-no-rj",
+  "live": false,
+  "name": "Trevon James",
+  "videoId": "jbQUqCO6gls",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-09T17:43:19.520Z"
+  }
+},{
+  "_id": {
+    "$oid": "604322974d2bba1498d2a6da"
+  },
+  "searchKey": "UCCCDp0gdvYSDbkHh5bgLlwg",
+  "streamType": "",
+  "isTestData": false,
+  "hideOffline": true,
+  "name": "FunkyCryptoPodcast JohnKimOfficial",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwngeEY6oC8TdAHI_J5Alio7NZ6FfzJatqky0uD4Bsg=s144-c-k-c0x00ffffff-no-rj",
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "6048318c507fe40ce8d6c771"
+  },
+  "searchKey": "bitcoin",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/56cdf78a-e874-4f4f-9865-283161b75e66-profile_image-150x150.png",
+  "title": "",
+  "twitter": "",
+  "hideOffline": true,
+  "live": false,
+  "name": "Bitcoin",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-04-08T22:52:09.022Z"
+  }
+},{
+  "_id": {
+    "$oid": "604978105b2b7c32c439756a"
+  },
+  "searchKey": "actual_joker",
+  "streamType": "TWITCH",
+  "isTestData": false,
+  "name": "Actual_Joker",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d570bcf6-0e69-4937-a87f-0f6d950f13b6-profile_image-150x150.png",
+  "twitter": "thehexjoker",
+  "hideOffline": true,
+  "live": false,
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-24T00:56:27.501Z"
+  }
+},{
+  "_id": {
+    "$oid": "60504554e017763900942b72"
+  },
+  "searchKey": "captainxenu",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "name": "CaptainXenu",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ac0b1194-1570-4ab9-98af-d46b04efe893-profile_image-150x150.png",
+  "twitter": "",
+  "hideOffline": true,
+  "live": false,
+  "title": "Multiplayer | Brutal | Server = CXGaming",
+  "viewers": 4,
+  "streamEnd": {
+    "$date": "2021-03-17T08:57:12.958Z"
+  }
+},{
+  "_id": {
+    "$oid": "6055172bb2a2ce314817e297"
+  },
+  "searchKey": "UCNOfzGXD_C9YMYmnefmPH0g",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Ethereum Foundation",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLTtGx9oaVOnu8bGjHld8kB7jgYWbMA2M6fL7dGBVg=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-01T14:48:49.208Z"
+  },
+  "videoId": "-8TSQCwITA0",
+  "twitter": "",
+  "hideOffline": false,
+  "scheduledDate": {
+    "$date": "2021-10-15T14:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "605553dab2a2ce314817e298"
+  },
+  "searchKey": "UCq7jBKI0WDZTMJapcFOQCEw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Bloo Bum",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnj7oOwGZCeXsoyFN0YLR20saXrsZpsRrhLJk-JpXw=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-06-06T04:03:46.361Z"
+  },
+  "videoId": "OIuLtb3pmFM",
+  "twitter": "JonnoKatz",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "60621b98ea488f2a84c651a6"
+  },
+  "searchKey": "UCzA8p1WVyQ7oinZGocuGsOw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "PulseChain",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwngbBOc5n6OmyDfHVmzH3Z8dEiHQsUxnP7iqeQ=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-03-23T08:32:28.901Z"
+  },
+  "twitter": "PulsechainCom",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "606271d3ea488f2a84c651a8"
+  },
+  "searchKey": "UCfM2wodFKecYogpO6EDEEVQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnj1RyGraXMpyRPHv3d8nNqIekn3nFOw7sR5iG79=s176-c-k-c0x00ffffff-no-rj",
+  "live": false,
+  "name": "Hexologist",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-06-23T17:49:30.097Z"
+  },
+  "videoId": "ycQG7HdDrNw",
+  "twitter": "Hexologist31",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "6073b5390882c034d4cb480f"
+  },
+  "searchKey": "hexradioapp",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "name": "HEXradioapp",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c93e1d0b-a610-471f-a02e-715a962ead33-profile_image-150x150.png",
+  "twitter": "",
+  "hideOffline": true,
+  "live": true,
+  "title": "Live HEX & Pulsechain voice chat",
+  "viewers": 2,
+  "streamEnd": {
+    "$date": "2021-05-24T06:04:03.297Z"
+  }
+},{
+  "_id": {
+    "$oid": "6074e6eb41af3134a49b682d"
+  },
+  "searchKey": "glassmancometh",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "__v": 0,
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/glassmancometh-profile_image-504320fa9d8400fe-150x150.jpeg",
+  "live": false,
+  "name": "Glassmancometh",
+  "title": "Playing the Glass Game IRL",
+  "viewers": 89,
+  "streamEnd": {
+    "$date": "2021-03-19T04:58:58.136Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "6077abe42f91f21db84fb086"
+  },
+  "searchKey": "UCwWKQcuV2Z-D_Td3MoJ58qA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": true,
+  "name": "HEXradioapp",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLRv7RAqle_OaNWEnyzsWWnR_AulGhHY1-ui8tch=s176-c-k-c0x00ffffff-no-rj",
+  "title": "Live HEX & Pulsechain voice chat",
+  "videoId": "l1Kzb38DR7Q",
+  "viewers": 55,
+  "streamEnd": {
+    "$date": "2021-10-05T13:06:58.072Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60ab79bede0092403800c1f2"
+  },
+  "searchKey": "pulseradioapp",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "name": "PULSEradioapp",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e17f0ef3-ab08-41ac-82d4-8a691c49a986-profile_image-150x150.png",
+  "twitter": "",
+  "hideOffline": true,
+  "live": true,
+  "title": "Pulsechain.com, Largest Airdrop in Crypto History!",
+  "viewers": 2,
+  "streamEnd": {
+    "$date": "2021-05-30T10:24:04.400Z"
+  }
+},{
+  "_id": {
+    "$oid": "60abca379f9b874cf4e56eb4"
+  },
+  "searchKey": "UCxc8jdKBJ5gn1UQB8P2Po2Q",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "JENKINZ",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhdqbbNwCZsRACZaVUN-8HfhePYlQRny7oV0q2T=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "p6VFfRv1suo",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-02T20:18:59.875Z"
+  },
+  "twitter": "CryptoJenkinz",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60ad860a6e7d941b14a55094"
+  },
+  "searchKey": "UC60a4msAOcjOWMMvNRyBx2w",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Mitch Ray",
+  "profileURL": "https://yt3.ggpht.com/0kEww08q70MX74zupQv5dtjT5ROY894iPbgK2cw7azVf3PPpjqFjRqbPtUsraVB9AHiCO2b84g=s176-c-k-c0x00ffffff-no-rj",
+  "title": "BITCOIN LIVE : HEX ATH, YRD UP 30% OFF PCZ OF GARTLEY",
+  "videoId": "0OqMYmIX9ZU",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-05-27T01:10:40.327Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60b3a53ae9bbdb0044f3fce8"
+  },
+  "searchKey": "UC3jHAKeJmo7Yg8DHKDwbE_A",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Pulseradioapp",
+  "profileURL": "https://yt3.ggpht.com/YEdJXNYq0XHT7zqyZfSPyhYl0hjffn7-KeigbgA76Tu7YF5N3fx2ERGgWP682lYkJj6iNbC4SA=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "7A3loJxQdyQ",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-21T06:36:55.142Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60b4211f633d131b387f5364"
+  },
+  "searchKey": "UCeQB7jqEC0eUq47X4BZg8LQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Gerardo",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQor-xWKkzHFoCyvLlnt3e_Eb53OLQkpkpCr2UatA=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "qaswBvFXvxE",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-30T19:07:04.613Z"
+  },
+  "twitter": "gerawrdog",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "60b95a3aac2a51372c1776ec"
+  },
+  "searchKey": "UCpW_0MFrZsJvHBbq5ZvYTYQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "HEX_TAngent",
+  "profileURL": "https://yt3.ggpht.com/onHPOprxEz-XJ8wU9fJ9WdbcHxg4Wl1wx6wkhf4m3KENPSrsIopzFF4-4IkJxOnMpOEz23PzVA=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "LZwwery8pRw",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-05T15:07:07.573Z"
+  },
+  "twitter": "TAngentsOnly1",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "60c0f81440f9512844e52a12"
+  },
+  "searchKey": "UC5_us1WWzHfQR6jJ9UpxQIg",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Jack Stevens",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnjx7YkmWzPPi1ISgalKdR2bpmo0p7lw3eksAQ=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-05-05T16:34:01.563Z"
+  },
+  "twitter": "HEXGENERAL",
+  "hideOffline": true,
+  "scheduledDate": {
+    "$date": "2021-07-07T02:58:21Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c7873c42e75a4e64bd3ccd"
+  },
+  "searchKey": "UCCZVmatSqIMTTB8uExk8xEg",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "London Real",
+  "profileURL": "https://yt3.ggpht.com/ytc/AAUvwnhvmy0dyx0boBP0OmTDsFEC1EO14amz24VeAYnSfA=s176-c-k-c0x00ffffff-no-rj",
+  "title": "Ben Patrick - From Battered To Bulletproof",
+  "videoId": "HacSeGNItrM",
+  "viewers": 56,
+  "streamEnd": {
+    "$date": "2021-06-10T08:11:54.123Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60d6ff62be79872ea88c1fbe"
+  },
+  "searchKey": "UCjxhw64fgdLY1_DLFYjdGEw",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Crypto8lack5heep",
+  "profileURL": "https://yt3.ggpht.com/c80aX5zhwbsI3jdoctb80ejf98Y_eRskkh4wbqCVRdsKoykiSjzk2vKDMkI3xsZChnKVGCYlVg=s176-c-k-c0x00ffffff-no-rj",
+  "title": "The BlackSheep Show - Ep264  - Outback Stake House - ALL IN HEX - DAY #20",
+  "viewers": 18,
+  "streamEnd": {
+    "$date": "2021-07-08T00:21:35.513Z"
+  },
+  "videoId": "E9gJFbT_nZU",
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60dce0d691181c36301d0ea6"
+  },
+  "searchKey": "UC5aJl11LkdMlBjnUme9iWuw",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Crypto Lodge",
+  "profileURL": "https://yt3.ggpht.com/tEhuC9Y9bc0_I2Nx4TYcFnMnnEyJsFoGAN8taMZqQXEfCKSdRC1j_4Gnia9Af-KNQG86EPz_zQ=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "LGuZA9fSbiI",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-06-30T21:55:50.348Z"
+  },
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60de270ee555164e80e97afb"
+  },
+  "searchKey": "shadowybrilliance",
+  "streamType": "TWITCH",
+  "isTestData": true,
+  "name": "ShadowyBrilliance",
+  "profileURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b778692-a7b7-459d-9489-5e1fef0725d1-profile_image-150x150.png",
+  "twitter": "",
+  "hideOffline": false,
+  "live": false,
+  "title": "Honor McAfee, get $WHACKD!",
+  "viewers": 1,
+  "streamEnd": {
+    "$date": "2021-04-23T01:15:55.066Z"
+  }
+},{
+  "_id": {
+    "$oid": "60e0feca78feece8432bbe94"
+  },
+  "searchKey": "UCNrqyjvK4cp25aBwZeAW4qw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "live": false,
+  "name": "FreedomTV",
+  "profileURL": "https://yt3.ggpht.com/vAXjGlp_L5nY4EquXuC-PstnS57H5z3lf0N1dCJDCMKzEzx8ig5lGObLoAmtjPtCj0Hhq4uygYM=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-30T01:13:04.905Z"
+  },
+  "videoId": "nVo6tKMJMko",
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "60e1e90cce6503e0c3e677be"
+  },
+  "searchKey": "UCTrigbovk854kyS1PMIg3WA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "IN HEXPANISH",
+  "profileURL": "https://yt3.ggpht.com/WWQUl0aPAYOcEhzBoADeoR_J9GqEySLJU5_UuSY7fbA_K1evRrJ3Z6VFThxMTkh7pOmIM9FRQQ=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T18:43:13.392Z"
+  },
+  "videoId": "O7g72W4QxcI",
+  "twitter": "hexpanol",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "60e6167612e9a65e9ea601b5"
+  },
+  "searchKey": "UCe67rNfcZpFr1YhdWZ0a0Nw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Goldkey",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSgfU681NVfag4IprkXptLmEons8dKxHT_fUHEtqA=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-13T00:56:26.833Z"
+  },
+  "videoId": "Qc8PYQ4V9Do",
+  "twitter": "goldk3y_",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "60e72c8cd603d0ab76d89199"
+  },
+  "searchKey": "UCo6yBCJBycDaqxoptm_2ktA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Funding Gym",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLQ2EDmztNlgu3_M1HJN79ai0sHeEGUv6RA3Hdkslg=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T21:07:18.628Z"
+  },
+  "videoId": "FHJ69qU1afQ",
+  "twitter": "FundingGym",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "60e7621454f5c009c62eaab3"
+  },
+  "searchKey": "UCN9Nj4tjXbVTLYWN0EKly_Q",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Crypto Banter",
+  "profileURL": "https://yt3.ggpht.com/6xq7I6rSaqbW3BZN2vgy-tdgHHO5L4m-aQ-VaEEyTBbpWGDgSgWCzRfXPYJOzzuTZYwfVCE1Fg=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-16T15:14:28.783Z"
+  },
+  "videoId": "CrGtZ2P88pc",
+  "twitter": "cryptomanran",
+  "hideOffline": true,
+  "scheduledDate": {
+    "$date": "2020-12-04T15:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "60e9edd145f36e63b35909e6"
+  },
+  "searchKey": "UCezpBAJBEshH-D8iqRTfgNg",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Sir HexAlot",
+  "profileURL": "https://yt3.ggpht.com/RZ1fdooAGbq5mHjl1qo4x9TrHCbe_r9t-ibIJamtVs7bHWC8ijxhEdcGif6oU0qH1Nil6EBY=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "PmtlrWZRcjI",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-05T01:49:14.930Z"
+  },
+  "twitter": "KachuraWilliam",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60ec00853612602d04403047"
+  },
+  "searchKey": "UCQaH-7dUGbiEehKcQhecXxw",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "BeardedOssie",
+  "profileURL": "https://yt3.ggpht.com/MAVe3rne-j1uO3tOq9X7Rn6u-cm6QBllZldK72YJ3lXdF6e1rRS_CNWFKJ2H8SYJpHT030DEcw=s176-c-k-c0x00ffffff-no-rj",
+  "title": "MLB The Show 21 - Blue Jays Franchise: World Series Champs?",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-26T23:49:15.978Z"
+  },
+  "videoId": "aJnQLmQak_o",
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60f0eac9127346e7e4069d14"
+  },
+  "searchKey": "UCkXy038bGghZzQJ-mYR67zA",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Crypto Bobcat",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLTXg577F4nmW7Y9JI3H5X-Ll2M-YWRAhT4QcEbr=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-03T14:19:22.695Z"
+  },
+  "videoId": "tHIMVeD3geM",
+  "twitter": "bobcat_crypto",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "60f3a4c04454160f2d1ab9b5"
+  },
+  "searchKey": "UCXGb6SWEuF4xmOXiwy7So4g",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Hex Genius",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLT3w2xg48bB46v8SNFMtLGs4Tg0-kTRE2sQOfYG=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-22T23:56:37.935Z"
+  },
+  "videoId": "86q_FuogLAI",
+  "twitter": "BMindfulofDeath",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60f530456961e143af1fa591"
+  },
+  "searchKey": "UCpceefaJ9vs4RYUTsO9Y3FA",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Louis Thomas",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLTGHRvsRn5M7Q2B3MePeWcoiPutPR-2mSr5zpGFBQ=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-15T02:20:33.920Z"
+  },
+  "videoId": "",
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "60fddfd7114b0f1460f743d7"
+  },
+  "searchKey": "UCCjqWGoeniwLtoDpjbrheMQ",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "twitter": "HEXDragon5555",
+  "hideOffline": true,
+  "name": "HEX Dragon",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLS0n5_3zPfbP5rYopkm9-T4VRME7THeHKhuSsGkPSU=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "videoId": "8hEjXFmRUyE",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-16T19:59:51.624Z"
+  },
+  "scheduledDate": {
+    "$date": "2015-01-03T18:59:50Z"
+  }
+},{
+  "_id": {
+    "$oid": "6104b72bb4cf208742758753"
+  },
+  "searchKey": "UCfySj3nKqjM44iD58oB8Hyw",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "HEXrayVision",
+  "profileURL": "https://yt3.ggpht.com/z03lGSa0MTzL3BUQdK4WOUnivOg0b52m_4qFgLoMlv5JPnhEjvzrDbZY6Dm43L4siX9v_b5Tiw=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-31T03:26:40.984Z"
+  },
+  "videoId": "KNDCfXIPGHY",
+  "twitter": "HEXrayVision",
+  "hideOffline": true,
+  "scheduledDate": {
+    "$date": "2021-08-28T23:09:56Z"
+  }
+},{
+  "_id": {
+    "$oid": "6104c28eb4cf208742758754"
+  },
+  "searchKey": "UCdUSSt-IEUg2eq46rD7lu_g",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Crypt0",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLShOdGUYGXRF37yNjMHTgQjqwqA1rix9dICNlIF=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-07-31T04:32:43.597Z"
+  },
+  "videoId": "HnWNvP4B4_c",
+  "twitter": "crypt0snews",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "610ca51cfc2146200c1ed15a"
+  },
+  "searchKey": "UCsD6V-yoNTSDb7w5yM6pS-A",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "HEX foodies",
+  "profileURL": "https://yt3.ggpht.com/OLtdZesR6uQQhzi1u3U-rOtt8UONv20q3uMqHnmEIqPkogQSohrLR3_bEf3NbBWVgHdQo68vQg=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-05T18:07:36.932Z"
+  },
+  "videoId": "PLIaOMelLJ0",
+  "twitter": "ecobuild_davin",
+  "hideOffline": false,
+  "scheduledDate": {
+    "$date": "2021-10-12T17:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "6117d890e2b5c644bfea6625"
+  },
+  "searchKey": "UCNpxOi3eq1Sy0BFpF6fV23A",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Directly From The Heart",
+  "profileURL": "https://yt3.ggpht.com/pgOwfjJskIpYwX-HcTix52NElAeOv-Z7V1Sdr4-lmRtBRKzJ8t-NBOxGLsr5T4kmqd9-9ykbf_w=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-23T00:25:27.300Z"
+  },
+  "videoId": "CNqWZ1avGOY",
+  "twitter": "purrpleaf",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "6131660e49e376654e91aa0d"
+  },
+  "searchKey": "UCet-JVOk7MgFP2W6SNbcVtg",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "Future Us",
+  "profileURL": "https://yt3.ggpht.com/x5aswhHA18dp2PNwl5fgt_sor5ErN13K9LhJk_TTIn4ke6Rv8xzueJlN4r725qClBoK7gB3Z1_s=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-08-28T12:32:43.597Z"
+  },
+  "videoId": "UhgC8BOytCw",
+  "twitter": "futureus",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "61326e751d60394beadec8ea"
+  },
+  "searchKey": "UC8eLDzfH6YfZRDbDuMsNWiA",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "The Rational Male",
+  "profileURL": "https://yt3.ggpht.com/lt4lTIrotXKVy4yw0cTs0rcYX2FZjzLHDKAVs2fV2KzIM9kp8Y__FxEUdNeYFqM7h01OJrhjbA=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-03T20:07:32.332Z"
+  },
+  "videoId": "DdnFYSX61f0",
+  "twitter": "",
+  "hideOffline": true
+},{
+  "_id": {
+    "$oid": "613ba08b0d3bfaf2532e06b0"
+  },
+  "searchKey": "UCbCMDBLS4mZiLzq4AceABxg",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": "sienzuf",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSCOVPXaBY0skXtCqVtnQ7SYEerOEAYrGnnaBllWw=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-03T20:04:32.332Z"
+  },
+  "videoId": "EL-qz-2NLf8",
+  "twitter": "",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "6141891586694341f8913f6f"
+  },
+  "searchKey": "UCLy-C-tefsB71aDU9zFeG8w",
+  "streamType": "YOUTUBE",
+  "isTestData": false,
+  "__v": 0,
+  "live": false,
+  "name": " IdentityBlock",
+  "profileURL": "https://yt3.ggpht.com/0v545m6-4FuUVMJMJjEMXo6w8e7jLQzZ-MjHCzniBmKXjRZL1Hp10Zc7kset-jWoVnaCEMhxAg=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-10-01T22:37:39.873Z"
+  },
+  "videoId": "PPSMVYjubWM",
+  "twitter": "IdentityBlock",
+  "hideOffline": false
+},{
+  "_id": {
+    "$oid": "6143cc4950c324d02d73558a"
+  },
+  "searchKey": "UCKkq4T-M1hYpptJRZwdxTJA",
+  "streamType": "YOUTUBE",
+  "isTestData": true,
+  "__v": 0,
+  "live": false,
+  "name": "Zuby",
+  "profileURL": "https://yt3.ggpht.com/ytc/AKedOLSPMc2bopGo-VMXK26A0bSXkbLgoRt8V69emb5_ZA=s176-c-k-c0x00ffffff-no-rj",
+  "title": "",
+  "viewers": 0,
+  "streamEnd": {
+    "$date": "2021-09-16T23:37:39.830Z"
+  },
+  "videoId": "bl-Y2cIdG54",
+  "twitter": "zubymusic",
+  "hideOffline": false
+}]

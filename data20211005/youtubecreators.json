@@ -1,0 +1,787 @@
+[{
+  "_id": {
+    "$oid": "602e1be7b62f5e33082d39c6"
+  },
+  "channelId": "UC7d6K2rDalsphrftXO-SKYA",
+  "name": "Long Live HEX",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "MendonzaSeth"
+},{
+  "_id": {
+    "$oid": "602e1ccfc7fbda25f8ddad80"
+  },
+  "channelId": "UC8zmZ7KrfHvniLsNA7Rrf0g",
+  "name": "HEX Clips",
+  "limit": 6,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "HEX_CLIPS"
+},{
+  "_id": {
+    "$oid": "602e1d0ec7fbda25f8ddad81"
+  },
+  "channelId": "UCMg5TZr-VSgu7tYMSfHatVw",
+  "name": "hodldog",
+  "limit": 2,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "hodldogofficial"
+},{
+  "_id": {
+    "$oid": "602e1d30c7fbda25f8ddad82"
+  },
+  "channelId": "UClAAuvHzeMTFrOuk2ftMBNw",
+  "name": "Silver The Antidote",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "Silver_Antidote"
+},{
+  "_id": {
+    "$oid": "602e1d54c7fbda25f8ddad83"
+  },
+  "channelId": "UC-0FW880JvMZtdvDF39PtNg",
+  "name": "Super HEX",
+  "limit": 2,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "superhexwin"
+},{
+  "_id": {
+    "$oid": "602e1d68c7fbda25f8ddad84"
+  },
+  "channelId": "UCGw1tndEJRd8lPDdo1p0DmQ",
+  "name": "Ate-Bit Dave",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "Ate_Bit_Dave"
+},{
+  "_id": {
+    "$oid": "602e1d7cc7fbda25f8ddad85"
+  },
+  "channelId": "UCnoOPS7_9XUrVGs1fFkAZNA",
+  "name": "Crypto Coffee",
+  "limit": 2,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "CryptoCoffee369"
+},{
+  "_id": {
+    "$oid": "602e1d8fc7fbda25f8ddad86"
+  },
+  "channelId": "UCckUaVpHdEQ8fiyMhVt5fuw",
+  "name": "Adrian",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "phoneinf"
+},{
+  "_id": {
+    "$oid": "602e1da1c7fbda25f8ddad87"
+  },
+  "channelId": "UChz5HWqFBRxM6P5dTLNSLOQ",
+  "name": "Naga Tribe",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "NagaBeau"
+},{
+  "_id": {
+    "$oid": "602e1db0c7fbda25f8ddad88"
+  },
+  "channelId": "UCcFioV7OYNrixEhYI3eoKKQ",
+  "name": "Irish Hexican",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "TheIrishHexican"
+},{
+  "_id": {
+    "$oid": "602e1dbdc7fbda25f8ddad89"
+  },
+  "channelId": "UCzfBhG4LvUeEWy2dyTCLg-A",
+  "name": "David Feder",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "DavidFeder"
+},{
+  "_id": {
+    "$oid": "602e1dd0c7fbda25f8ddad8a"
+  },
+  "channelId": "UCrrFshqnoxxucH4xwDWdsUw",
+  "name": "Motley Investor",
+  "limit": 2,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "MotleyInvestor"
+},{
+  "_id": {
+    "$oid": "602e1deac7fbda25f8ddad8b"
+  },
+  "channelId": "UCLr2GFnSb3LNnTY28B-JucA",
+  "name": "Hex Cadet",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "HexCadet"
+},{
+  "_id": {
+    "$oid": "602e1df8c7fbda25f8ddad8c"
+  },
+  "channelId": "UC74XiCHYDXBmZ_DQZixqYAw",
+  "name": "Crypto Nomad",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "CryptoNomad6"
+},{
+  "_id": {
+    "$oid": "602e1e06c7fbda25f8ddad8d"
+  },
+  "channelId": "UC_7MFumIyVz1FZZ2ZwV18eQ",
+  "name": "Crypto Model T Maximalist",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "CryptoModelTMax"
+},{
+  "_id": {
+    "$oid": "602e1e17c7fbda25f8ddad8e"
+  },
+  "channelId": "UCW6J-Hpc7UoJmhux_6CKM1w",
+  "name": "HEX Famous",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "hex_famous"
+},{
+  "_id": {
+    "$oid": "602e1e24c7fbda25f8ddad8f"
+  },
+  "channelId": "UCip6ULr3MNX4T3mygRZBVwA",
+  "name": "Corey an investor",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "Wizkidd77"
+},{
+  "_id": {
+    "$oid": "602e1e3ac7fbda25f8ddad90"
+  },
+  "channelId": "UC5_CBiOIicXstYyTRnrBUQQ",
+  "name": "Markable Thoughts",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "Markable_HEX"
+},{
+  "_id": {
+    "$oid": "602e1e4fc7fbda25f8ddad91"
+  },
+  "channelId": "UCq4rEwW4A_dYFEKmZzKMFWw",
+  "name": "Randy Hilarski",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "RandyHilarski"
+},{
+  "_id": {
+    "$oid": "6033e6ac3754d03fdce927d3"
+  },
+  "channelId": "UCma5N7UciWH0xINueNmN8aA",
+  "name": "abit_Hex",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "abit_hex"
+},{
+  "_id": {
+    "$oid": "60356360466701440c12073d"
+  },
+  "channelId": "UCHcVM4bl9xlYoC2NKy0qFKA",
+  "name": "Timothy Benjamin",
+  "isTestData": false,
+  "limit": 1,
+  "twitter": "tbdunamis"
+},{
+  "_id": {
+    "$oid": "60368ecaa922d319f832fbd8"
+  },
+  "channelId": "UCp2hyPgDATRG25vmVp1AIEg",
+  "name": "Yes_No_Adventures",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "yes_adventures"
+},{
+  "_id": {
+    "$oid": "603713eca922d319f832fbda"
+  },
+  "channelId": "UCF_SbwP9m4ewm1q9ml0IxKw",
+  "name": "Hex Family",
+  "isTestData": false,
+  "limit": 1,
+  "twitter": "Hexologist31"
+},{
+  "_id": {
+    "$oid": "603938ebff424d03c886204f"
+  },
+  "channelId": "UCDvOed6SRc2zk0PvQ8xdCZw",
+  "name": "HexLover2K20",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "HexMooniswpnomx"
+},{
+  "_id": {
+    "$oid": "60393915ff424d03c8862050"
+  },
+  "channelId": "UCQK-O7WMENwalvbohVgpI7w",
+  "name": "Richard Heart Clips",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "heart_clips"
+},{
+  "_id": {
+    "$oid": "60394e25ff424d03c8862051"
+  },
+  "channelId": "UCQL1eE9B6daS-Oa_4q0qmSQ",
+  "name": "Brian Jones",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "BallietBran"
+},{
+  "_id": {
+    "$oid": "603a2265b97c583678614526"
+  },
+  "channelId": "UCTHvAqSCSf6bN0Pmzu-hnzA",
+  "name": "Hextraordinary Crypto",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "60492a255b2b7c32c4397569"
+  },
+  "channelId": "UCOG0DRACT4EGseHvJ11Q3oQ",
+  "name": "Ryan Lopez",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "RyanHEXLife"
+},{
+  "_id": {
+    "$oid": "604a67a44bd2c6376cfd83b3"
+  },
+  "channelId": "UCta3TYFhzfpPvOtKBDifYJA",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "RichardHeartWin"
+},{
+  "_id": {
+    "$oid": "6050853ce017763900942b73"
+  },
+  "channelId": "UCY80wj26twHjLvPQNV_2cag",
+  "name": "Whales Only",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "whalesonly1"
+},{
+  "_id": {
+    "$oid": "60528880e017763900942b74"
+  },
+  "channelId": "UCOgTkXCst3xzfZULYSupOdg",
+  "name": "Big Pep",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "BigPepCrypto"
+},{
+  "_id": {
+    "$oid": "6055059bb2a2ce314817e296"
+  },
+  "channelId": "UCVDXvnqS3KvwabAnBRFsAxQ",
+  "name": "Post Polar",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "post_polar"
+},{
+  "_id": {
+    "$oid": "605f524a82d73e0554b9127d"
+  },
+  "channelId": "UCKL7h03mmp7Rjwl-Uvv-iwQ",
+  "name": "Cabana Crypto",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "CabanaCrypto"
+},{
+  "_id": {
+    "$oid": "60611064a61a992560d3859c"
+  },
+  "channelId": "UCbCmk4kXKimyhEj18yZ82JA",
+  "name": "Mati Allin",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "MatiAllin"
+},{
+  "_id": {
+    "$oid": "60621bedea488f2a84c651a7"
+  },
+  "channelId": "UCzA8p1WVyQ7oinZGocuGsOw",
+  "name": "PulseChain",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "PulsechainCom"
+},{
+  "_id": {
+    "$oid": "60661385984c0342203f4dd2"
+  },
+  "channelId": "UCXGb6SWEuF4xmOXiwy7So4g",
+  "name": "Hex Genius",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "BMindfulofDeath"
+},{
+  "_id": {
+    "$oid": "607aee0233556035604e2e14"
+  },
+  "channelId": "UCeQB7jqEC0eUq47X4BZg8LQ",
+  "name": "Gerardo",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "gerawrdog"
+},{
+  "_id": {
+    "$oid": "607af06633556035604e2e15"
+  },
+  "channelId": "UCwbofDromso_kOwD8paBwHw",
+  "name": "Just Talk Sheng",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "HZaggah"
+},{
+  "_id": {
+    "$oid": "607af0e133556035604e2e16"
+  },
+  "channelId": "UCs4I-k8h44Q-S_OPizBnQzg",
+  "name": "HEX Patient",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "607af12b33556035604e2e17"
+  },
+  "channelId": "UCWJiofMLWwNx-8pwJiAMURQ",
+  "name": "Yikes",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "607af14e33556035604e2e18"
+  },
+  "channelId": "UCpt_3UTImjEXKeHJvS1RzmA",
+  "name": "Clips from the Heart",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "60876d25c42c134b3c03b209"
+  },
+  "channelId": "UCUBQ89G-ExdZ7mDayEcHNhg",
+  "name": "STAKED WEALTH",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "stakedwealth"
+},{
+  "_id": {
+    "$oid": "609744e64c209d12ecd74a2b"
+  },
+  "channelId": "UCNrqyjvK4cp25aBwZeAW4qw",
+  "name": "FreedomTV",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "iamfreedomtv"
+},{
+  "_id": {
+    "$oid": "60b4808e3b915121b831027d"
+  },
+  "channelId": "UCxj2OVNvh1ViYwpnGtpksGA",
+  "name": "uNRekt Pyrate",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "pyrateunrekt"
+},{
+  "_id": {
+    "$oid": "60b58c82d889ec031054a6d9"
+  },
+  "channelId": "UCcLDVY9VjIrBK5bAIzJcCzQ",
+  "name": "BallietBran",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "BallietBran"
+},{
+  "_id": {
+    "$oid": "60c4a0ec6e842939bc4d25e9"
+  },
+  "channelId": "UCCtLpyrJD0_7vwviQkHwqYQ",
+  "name": "Rackham Rishel",
+  "limit": 1,
+  "isTestData": false,
+  "twitter": "RackhamRishel"
+},{
+  "_id": {
+    "$oid": "60c7bdb542e75a4e64bd3cce"
+  },
+  "channelId": "UCLy-C-tefsB71aDU9zFeG8w",
+  "name": "IdentityBlock",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "60cc43d418cf431f44f07b27"
+  },
+  "channelId": "UCpesW8XILyVrKPGKA9zE3Sg",
+  "name": "PULSE LORD",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "lord_pulse"
+},{
+  "_id": {
+    "$oid": "60d6fc72be79872ea88c1fbd"
+  },
+  "channelId": "UCkXy038bGghZzQJ-mYR67zA",
+  "name": "Crypto Bobcat",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "bobcat_crypto"
+},{
+  "_id": {
+    "$oid": "60d9abe11239621fdcc64dfa"
+  },
+  "channelId": "UCigthmSDAFw6Da7UkIoXmaA",
+  "name": "OVDIAN",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "bends4535"
+},{
+  "_id": {
+    "$oid": "60d9ac631239621fdcc64dfc"
+  },
+  "channelId": "UC-uV4pEFWhqJTNaAYfHtreA",
+  "name": "deepstakes",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "60dd007691181c36301d0ea7"
+  },
+  "channelId": "UC-qyCqlY_T2kecSBc0xwPbA",
+  "name": "HEX futures",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "EcoBuild_davin"
+},{
+  "_id": {
+    "$oid": "60de2903e555164e80e97afc"
+  },
+  "channelId": "UCKyjcQDNl8LBbUHhRb6ntoA",
+  "name": "Ryan Lopez",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "RyanHEXLife"
+},{
+  "_id": {
+    "$oid": "60dfaa9b78feece8432bbe91"
+  },
+  "channelId": "UCwT0P1tQjSEOpaLYdhgfVTw",
+  "name": "CryptoCretin",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "60e6248312e9a65e9ea601b8"
+  },
+  "channelId": "UC6Z1ofVw8K6fOikmLzDYAwg",
+  "name": "Krypto Panda",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "KryptoPanda__"
+},{
+  "_id": {
+    "$oid": "60e926c7f6f511cf74d36594"
+  },
+  "channelId": "UCo6yBCJBycDaqxoptm_2ktA",
+  "name": "Funding Gym",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "FundingGym"
+},{
+  "_id": {
+    "$oid": "60e9eb0a45f36e63b35909e3"
+  },
+  "channelId": "UCezpBAJBEshH-D8iqRTfgNg",
+  "name": "Sir HexAlot",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "60ea274b1140052a9bd07e46"
+  },
+  "channelId": "UC65ZIQ4kqco7KsT1OYKrRrQ",
+  "name": "Trapiavelli",
+  "limit": 1,
+  "isTestData": true,
+  "__v": 0,
+  "twitter": "HexBasedGod"
+},{
+  "_id": {
+    "$oid": "60ea8c151140052a9bd07e4f"
+  },
+  "channelId": "UC1hWlZzodeg3bzLNQcSiUCA",
+  "name": "Kevin Conway",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "blakcinc"
+},{
+  "_id": {
+    "$oid": "60ec07d23612602d0440304a"
+  },
+  "channelId": "UCzkGqsUdQbphzJ0DDjZh1fA",
+  "name": "Conquer Time",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "ConquerTime"
+},{
+  "_id": {
+    "$oid": "610b11c23c708b28e8a50994"
+  },
+  "channelId": "UCkfj8z7nlOxNuzHeVxyB9tA",
+  "name": "xxxBullxxx",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "Letson_Art"
+},{
+  "_id": {
+    "$oid": "610df5049fa1e526104321e4"
+  },
+  "channelId": "UCh_l5f-6zmS9JG1Oc1mEZtQ",
+  "name": "Hexadecimal",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "Hexadecimulla"
+},{
+  "_id": {
+    "$oid": "611060aad6bb512f385aa6e8"
+  },
+  "channelId": "UCDIu5Fnoyeh2AObzJ8UwvOg",
+  "name": "Hexegade",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "hexegade"
+},{
+  "_id": {
+    "$oid": "6110860df06d591db054cc47"
+  },
+  "channelId": "UCjrlci-aWeRkFVzd4ovLayw",
+  "name": "TryHex",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "RapidProtoTripe"
+},{
+  "_id": {
+    "$oid": "61173894ae8eaeacc63cf5cc"
+  },
+  "channelId": "UCsD6V-yoNTSDb7w5yM6pS-A",
+  "name": "HEX foodies",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "ecobuild_davin"
+},{
+  "_id": {
+    "$oid": "61253cff68c206dda170fca1"
+  },
+  "channelId": "UCQay6WPK6NoQime3czZWiUQ",
+  "name": "Hex Before Fame",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "612977d62b4f2ae62867696e"
+  },
+  "channelId": "UCVcevh0Nv4G5jJ4J35k62hQ",
+  "name": "DJ cRYPTOMATic",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "DJ_Cryptomatic"
+},{
+  "_id": {
+    "$oid": "612d763c6778f5279edc6ca9"
+  },
+  "channelId": "UCadhrApSRovB7V8EwH7pVDw",
+  "name": "CryptoJoker",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "TheHEXJoker"
+},{
+  "_id": {
+    "$oid": "612da54a6778f5279edc6caa"
+  },
+  "channelId": "UC97I2rINPOK4jxk5SG4bBrQ",
+  "name": "kollanepart1",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "calibreftw"
+},{
+  "_id": {
+    "$oid": "612da5ee6778f5279edc6cab"
+  },
+  "channelId": "UCEnzKMsphpEVViQAH97Mo5w",
+  "name": "FunkMasterHEX",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "HexFunk"
+},{
+  "_id": {
+    "$oid": "612da6586778f5279edc6cac"
+  },
+  "channelId": "UC5yxxKkdfFH04kDkhOIDpkw",
+  "name": "Paul Cassidy",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "paulcassidy11"
+},{
+  "_id": {
+    "$oid": "612daa046778f5279edc6cad"
+  },
+  "channelId": "UCet-JVOk7MgFP2W6SNbcVtg",
+  "name": "Future Us",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "futureus"
+},{
+  "_id": {
+    "$oid": "612e4f2059ad5e9d537b3136"
+  },
+  "channelId": "UCe5VyAu-UOrNz3Z2Vf-Ej3Q",
+  "name": "AnnHex The Crypto Space",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": ""
+},{
+  "_id": {
+    "$oid": "613ba0c90d3bfaf2532e06b3"
+  },
+  "channelId": "UCbCMDBLS4mZiLzq4AceABxg",
+  "name": "sienzuf",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "sienzuf"
+},{
+  "_id": {
+    "$oid": "61412dcd86694341f8913f6c"
+  },
+  "channelId": "UCBIwWAcjlcqFmqis9md8O0Q",
+  "name": "Hello Wealth",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "CasRowlett"
+},{
+  "_id": {
+    "$oid": "6143ff5a50c324d02d735591"
+  },
+  "channelId": "UC3O1PZhrYNq7Z4iSoQ0zrzQ",
+  "name": "StakerApp",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "StakerApp"
+},{
+  "_id": {
+    "$oid": "6146224a1b1293d37ec7a8aa"
+  },
+  "channelId": "UC-X9WMYrj9nKMcxDszrkQIw",
+  "name": "RAGS TO RICHES",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "Rags2RichesFAM"
+},{
+  "_id": {
+    "$oid": "614837572747bf005859fa49"
+  },
+  "channelId": "UCCjqWGoeniwLtoDpjbrheMQ",
+  "name": "Steven Dragon Black",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "HEXDragon5555"
+},{
+  "_id": {
+    "$oid": "614e373f332bfa04398626da"
+  },
+  "channelId": "UCevYAWbTTlITi1mvFp_i-fA",
+  "name": "Dollar Cost Crypto",
+  "limit": 1,
+  "isTestData": true,
+  "__v": 0,
+  "twitter": "dollarcostcrypt"
+},{
+  "_id": {
+    "$oid": "61567919fc9481910551a1b5"
+  },
+  "channelId": "UCarVgel4x1mrsXdferJL0Vw",
+  "name": "p etc.",
+  "limit": 1,
+  "isTestData": false,
+  "__v": 0,
+  "twitter": "HEXcrypto"
+}]
