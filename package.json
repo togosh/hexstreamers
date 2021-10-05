@@ -9,7 +9,7 @@
     "image-size": "^0.9.3",
     "image-to-base64": "^2.1.1",
     "jquery": "^3.5.1",
-    "mongoose": "^5.11.10",
+    "mongoose": "^6.0.9",
     "openssl": "^1.1.0",
     "random-useragent": "^0.5.0",
     "request-image-size": "^2.2.0",
@@ -22,7 +22,6 @@
     "twitter-api-client": "^1.2.8",
     "urlencode": "^1.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
