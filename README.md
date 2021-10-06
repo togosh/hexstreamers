@@ -40,10 +40,12 @@ SSH - Putty - https://www.putty.org/
 https://www.mongodb.com/cloud/atlas   
 https://www.mongodb.com/products/compass   
 
-6. Run Start/Update script  
+6. (OPTIONAL) Import Data from /data20211005 folder
+
+7. Run Start/Update script  
 `./update.sh`  
 
-7. Setup Reboot   
+8. Setup Reboot   
 `sudo crontab -e`   
 `@reboot /home/hexstreamers/start.sh`  
 
