@@ -42,12 +42,18 @@ https://www.mongodb.com/products/compass
 
 6. (OPTIONAL) Import Data from /data20211005 folder
 
-7. Run Start/Update script  
+7. Run Start/Update script    
+`chmod +x update.sh`    
 `./update.sh`  
 
 8. Setup Reboot   
+`chmod +x start.sh`   
 `sudo crontab -e`   
 `@reboot /home/hexstreamers/start.sh`  
+
+9. Watch Log   
+`forever logs`   
+`tail -f /root/.forever/AAAA.log`   
 
 NOTE: Mongo Compass (Filters)
 ```
