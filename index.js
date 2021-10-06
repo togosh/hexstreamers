@@ -1070,6 +1070,7 @@ async function updateYoutubeVideos(){
 	}
 
 	videoList.sort((a, b) => (a.published < b.published) ? 1 : -1);
+	videoList = videoList.filter(x => x !== undefined);
 
 	var daysAgo = new Date();
 	daysAgo.setDate(daysAgo.getDate() - CONFIG.youtube.videoDaysAgo);
