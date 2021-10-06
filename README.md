@@ -36,7 +36,7 @@ SSH - Putty - https://www.putty.org/
 `vi config.json`  //i - Insert mode, Press Esc and :q - Quit, or :wq - Write and Quit  
 (Or download it, make the changes it and then upload it - Filezilla: https://filezilla-project.org/)
 
-5. Create MongoDB Atlas Database  
+5. Create MongoDB Atlas Database and Install Compass 
 https://www.mongodb.com/cloud/atlas   
 https://www.mongodb.com/products/compass   
 
@@ -48,6 +48,13 @@ https://www.mongodb.com/products/compass
 8. Setup Reboot   
 `sudo crontab -e`   
 `@reboot /home/hexstreamers/start.sh`  
+
+NOTE: Mongo Compass (Filters)
+```
+{isTestData: {$eq: true}}
+{channelId: {$eq: "AAAAAAAAAAAAAA"}}
+{streamType: {$eq: "TWITCH"}}
+```
 
 # More Setup
 
