@@ -1124,7 +1124,7 @@ async function getYoutubeVideosByCreator(youtubeCreator){
 	const resp = await fetch(apiURL);
 	const data = await resp.json();
 
-	if (data && data.items.length > 0) {
+	if (data && data.items && data.items.length > 0) {
 		const firstItem = data.items[0];
 		var uploads = firstItem.contentDetails.relatedPlaylists.uploads;
 
@@ -1142,7 +1142,7 @@ async function getYoutubeVideosByCreator(youtubeCreator){
 			const resp2 = await fetch(apiURL2);
 			const data2 = await resp2.json();
 
-			if (data2 && data2.items.length > 0) {
+			if (data2 && data2.items && data2.items.length > 0) {
 				for (var firstItem2 of data2.items){
 					const youtubeVideo = new YoutubeVideo({ 
 						videoId: firstItem2.snippet.resourceId.videoId,
@@ -1162,9 +1162,12 @@ async function getYoutubeVideosByCreator(youtubeCreator){
 					//}
 					list.push(youtubeVideo);
 				}
+			} else {
+				log("YTVIDEO - WARN - getYoutubeVideos() - No Videos - " + youtubeCreator.channelId);
 			}
-		}
-	} 
+		} else {
+		log("YTVIDEO - WARN - getYoutubeVideos() - No Videos - " + youtubeCreator.channelId);
+	}
 
 	await sleep(5000);
 	return list;
