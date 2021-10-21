@@ -1401,7 +1401,7 @@ async function tweetVideo(video){
 		if (!video.title.toLowerCase().includes('#hex')) {
 			tweetTitle += " #HEX";
 		}
-		if (!stream.title.toLowerCase().includes('#pulsechain')) {
+		if (!video.title.toLowerCase().includes('#pulsechain')) {
 			tweetTitle += " #Pulsechain";
 		}
 		if (!video.title.toLowerCase().includes('#crypto')) {
