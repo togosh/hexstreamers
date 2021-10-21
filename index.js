@@ -1293,6 +1293,9 @@ async function tweet(stream){
 		if (!stream.title.toLowerCase().includes('#hex')) {
 			tweetTitle += " #HEX";
 		}
+		if (!stream.title.toLowerCase().includes('#pulsechain')) {
+			tweetTitle += " #Pulsechain";
+		}
 		if (!stream.title.toLowerCase().includes('#crypto')) {
 			tweetTitle += " #Crypto";
 		}
@@ -1398,6 +1401,9 @@ async function tweetVideo(video){
 		if (!video.title.toLowerCase().includes('#hex')) {
 			tweetTitle += " #HEX";
 		}
+		if (!stream.title.toLowerCase().includes('#pulsechain')) {
+			tweetTitle += " #Pulsechain";
+		}
 		if (!video.title.toLowerCase().includes('#crypto')) {
 			tweetTitle += " #Crypto";
 		}
@@ -1469,6 +1475,7 @@ async function tweetRSS(rssItem){
 		var tweetTitle = "";
 		if (rssItem.title.length > 0) {tweetTitle += '"' + rssItem.title + '"';}
 		if (!rssItem.title.toLowerCase().includes('#hex')) {tweetTitle += " #HEX";}
+		if (!rssItem.title.toLowerCase().includes('#pulsechain')) {tweetTitle += " #Pulsechain";}
 		if (!rssItem.title.toLowerCase().includes('#crypto')) {tweetTitle += " #Crypto";}
 		if (!rssItem.title.toLowerCase().includes('#btc')) {tweetTitle += " #BTC";}
 		if (!rssItem.title.toLowerCase().includes('#eth')) {tweetTitle += " #ETH";}
