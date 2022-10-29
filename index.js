@@ -2783,25 +2783,24 @@ async function updateTikTokList() {
 ////////////////////// 
 // PRICE
 
-var priceUrl = "https://api.nomics.com/v1/currencies/ticker?key=" + CONFIG.price.nomicsKey + "&ids=HEX";
+var priceUrl = "https://hexdailystats.com/livedata";
 
 async function updatePrice(){
 	try {
 		const resp = await fetch(priceUrl);
 		const data = await resp.json();
 
-		if (data && data.length >= 1) {
-			var hexData = data[0];
-			if (hexData && hexData.price) {
-				//log("PRICE --- UPDATE - " + hexData.price);
-				hexPrice = parseFloat(hexData.price).toFixed(4).toString();
-				io.emit("hexPrice", hexPrice);
-			}
+		if (data && data.price){
+			//log("PRICE --- UPDATE - " + data.price);
+			hexPrice = parseFloat(data.price).toFixed(4).toString();
+			io.emit("hexPrice", hexPrice);
 		}
+
 	} catch (err) {
 		log("PRICE --- ERROR - updatePrice() - " + err + "\n" + err.stack);
 	}
 }
+
 
 //////////////////////////////////////////////////
 // REDDIT
