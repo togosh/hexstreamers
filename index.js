@@ -60,7 +60,8 @@ const Connection = mongoose.model('Connection', ConnectionSchema);
 const app = express();
 
 app.use(function(req, res, next) {
-	try {
+	res.redirect(302, 'https://thepulsetube.com/');
+	/*try {
 	if (req.path === "/" && req.ip){
 		//log('CONNECT - IP ADDRESS: ' + req.ip);
 		connections[req.ip] = Date.now();
@@ -77,7 +78,7 @@ app.use(function(req, res, next) {
 	}
 	} catch (error) {
 		log('APP ----- RECORD IP - ' + error);
-	}
+	}*/
 
 	next();
 });
